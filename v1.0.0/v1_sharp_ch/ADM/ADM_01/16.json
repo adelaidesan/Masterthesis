@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est votre activité agricole principale",
+	"title":"Was ist Ihre hauptsächliche landwirtschaftliche Tätigkeit?",
 	"choices": [
-		"Production végétale",
-		"Elevage",
-		"Mixte"
+		"Pfanzenproduktion",
+		"Viehbetrieb",
+		"Mischbetrieb"
 	],
 	"mandatory":true
 }

@@ -1,7 +1,7 @@
 {
 	"group_id":"ADM",
 	"color":"blue",
-	"title":"Informations générales",
+	"title":"Generelle Informationen",
 	"order": [
 		"ADM_01"
 	]

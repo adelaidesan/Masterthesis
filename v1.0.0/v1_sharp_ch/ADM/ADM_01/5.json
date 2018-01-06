@@ -1,16 +1,16 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Relation du répondant avec le chef de l'exploitation",
+	"title":"In welchem Verhältnis stehen Sie zum Betriebsleiter*in?",
 	"choices": [
-		"Chef de l'exploitation",
-		"Epoux/se",
-		"Parents/beaux-parents",
-		"Enfant",
-		"Frère/soeur",
-		"Autre membre de la famille",
-		"Autre personne vivant dans le ménage",
-		"Collaborateur de l'exploitation",
-		"Autre"
+		"Betriebsleiter*in",
+		"Ehemann/frau",
+		"Eltern/Schwiegereltern",
+		"Sohn/Tochter",
+		"Schwester/Bruder",
+		"Anderes Familienmitglied",
+		"Andere Person, die im Haushalt lebt",
+		"Mitarbeiter*in",
+		"Anderes"
 	],
 	"mandatory":true
 }
