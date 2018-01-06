@@ -1,0 +1,9 @@
+{
+	"question-type":"binary_answer",
+	"title":"SOME_TITLE",
+	"choices" : [
+		"Oui",
+		"Non"
+	],
+	"mandatory":true
+}

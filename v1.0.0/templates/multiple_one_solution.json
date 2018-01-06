@@ -1,0 +1,10 @@
+{
+	"question-type":"multiple_one_solution",
+	"title":"SOME_TITLE",
+	"choices":
+		[
+			"CHOICE_1",
+			"CHOICE_2"
+		],
+	"mandatory":"TRUE_FALSE"
+}

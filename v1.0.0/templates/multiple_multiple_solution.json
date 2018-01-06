@@ -1,0 +1,9 @@
+{
+	"question-type":"multiple_multiple_solution",
+	"title":"SOME_TITLE",
+	"choices": 
+		[
+			"CHOICE_1",
+			"CHOICE_2"
+		]
+}

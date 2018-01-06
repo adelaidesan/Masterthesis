@@ -1,0 +1,9 @@
+{
+	"group_id":"SOME_ID",
+	"color":"SOME_COLOR(grey, red, blue, green, yellow)",
+	"title":"SOME_TITLE",
+	"order": [
+		"APSECT_ID_1",
+		"APSECT_ID_2"
+	]
+}

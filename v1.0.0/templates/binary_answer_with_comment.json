@@ -1,0 +1,6 @@
+{
+	"question-type":"binary_answer_with_comment",
+	"title":"SOME_QUESTION",
+	"placeholder":"PLACEHOLDER",
+	"mandatory":"TRUE_FALSE"
+}

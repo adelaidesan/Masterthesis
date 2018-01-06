@@ -1,0 +1,19 @@
+{
+	"question-type":"table",
+	"title":"SOME_TITLE",
+	"lines": [
+		"QUESTION_1",
+		"QUESTION_2",
+		"_OTHER_INPUT::SOME_PLACEHOLDER"
+	],
+	"columns": [
+		{
+			"title":"SOME_ANSWER_1",
+			"type":"TYPE_INPUT"
+		}, 
+		{
+			"title":"SOME_ANSWER_2",
+			"type":"TYPE_INPUT"
+		}
+	]
+}

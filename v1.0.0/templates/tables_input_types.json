@@ -1,0 +1,10 @@
+{
+	"choices": [
+		"text",
+		"toggle",
+		"toggle_exactly_one",
+		"integer",
+		"binary",
+		"choices"
+	]
+}

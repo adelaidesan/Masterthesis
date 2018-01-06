@@ -1,0 +1,2888 @@
+
+
+#########################################GROUP 
+ ID      ADM
+ COLOR   blue
+ TITLE   Informations générales
+
+  ASPECT
+   TITLE    Bienvenue sur le Schéma Holistique pour l'Autoévaluation Paysanne de Résilience climatique (SHARP)
+   ID       ADM_01
+
+    text
+    Données collectées par:
+
+
+    text
+    Nom
+
+
+    text
+    Prénom
+
+
+    text
+    Identifiant unique
+
+
+    multiple_one_solution
+    Relation du répondant avec le chef de l'exploitation
+    choices:
+      * Chef de l'exploitation
+      * Epoux/se
+      * Parents/beaux-parents
+      * Enfant
+      * Frère/soeur
+      * Autre membre de la famille
+      * Autre personne vivant dans le ménage
+      * Collaborateur de l'exploitation
+      * Autre
+
+
+    text
+    Nom du chef de l'exploitation (si différent du répondant)
+
+
+    text
+    Pays
+
+
+    text
+    Région/canton
+
+
+    text
+    District/département
+
+
+    text
+    Commune/village
+
+
+    text
+    Latitude
+
+
+    text
+    Longitude
+
+
+    text
+    Collecte de données commencée le
+
+
+    binary_answer
+    Sexe
+    choices:
+      * Homme
+      * Femme
+
+
+    integer_answer
+    Age
+
+
+    multiple_one_solution
+    Quelle est votre activité agricole principale
+    choices:
+      * Production végétale
+      * Elevage
+      * Mixte
+
+
+    binary_answer
+    Certification de l'exploitation agricole
+    choices:
+      * Exploitation biologique certifiée
+      * Exploitation conventionnelle
+
+
+    multiple_one_solution
+    Taille de l'exploitation (hectares)
+    choices:
+      * Moins de 5 ha
+      * 5-10 ha
+      * 11-30 ha
+      * 31-50 ha
+      * 51-100 ha
+      * Plus de 100 ha
+
+
+
+#########################################GROUP 
+ ID      PSP
+ COLOR   grey
+ TITLE   Systèmes de production et pratique
+
+  ASPECT
+   TITLE    Types de Production
+   ID       PSP_02
+
+    table
+    Dans votre système agricole pratiquez-vous:
+                                Réponse (binary)           Activités traditionnelles (toggle)           Activité principale (toggle_exactly_one)           
+      * Les grandes cultures (céréales, légumineues, oléagineux)?
+      * L'élevage (production animale pour l'engraissement)?
+      * Production laitière?
+      * Culture maraîchère?
+      * Arboriculture?
+      * Viticulture?
+      * L'agroforesterie (production de plants, régénération naturelle assistée, plantation d'arbres)?
+      * L'aquaculture (production d'alevins, élevage de poissons) ?
+      * L'apiculture?
+      * La pêche?
+      * L'aviculture?
+      * _OTHER_INPUT::Autres activités (précisez)
+
+
+    table
+    Quel est le type de main d'oeuvre travaillant sur votre exploitation?
+                                Cochez (toggle)           
+      * Familiale uniquement
+      * Salariée uniquement
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure les activités pratiquées sont-elles suffisantes pour fournir un revenu qui réponde aux besoins de l’exploitation agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure la diversité des activités pratiquées est-elle importante pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Ménage
+   ID       PSP_01
+
+    table
+    Question / personne
+                                Pour chaque catégorie, combien de personnes y a-t-il dans votre ménage? (integer)           Qui est le chef de l'exploitation (cocher la bonne catégorie)? (toggle_exactly_one)           Combien participent aux activités liées à la production végétale? (integer)           Combien participent aux activités d'élevage? (integer)           Combien sont impliqués dans d'autres activités génératrices de revenus? (integer)           Combien ne peuvent pas travailler pour des raisons de santé? (integer)           Combien ont terminé leur formation agricole? (integer)           
+      * Hommes (16-65)
+      * Femmes (16-65)
+      * Garçons (0-15)
+      * Filles (0-15)
+      * Femmes (66+)
+      * Hommes (66+)
+
+
+    multiple_one_solution
+    Combien d'heures par semaine (sur l'exploitation et en dehors) travaille le chef de l'exploitation?
+    choices:
+      * Moins de 42h/semaine
+      * Entre 42h et 50h/semaine
+      * Entre 51h et 70h/semaine
+      * Plus de 70h/semaine
+
+
+    multiple_one_solution
+    Si vous avez des employés, est-ce qu'ils ont participé à des services de vulgarisation/formation agricole au cours des trois dernières années?
+    choices:
+      * Oui
+      * Non
+      * Non-applicable
+
+
+    multiple_one_solution
+    Est-ce que le chef de l'exploitation a choisi sa profession librement ou est-ce qu'il a repris la ferme sous pression de la famille?
+    choices:
+      * Oui, il a pu choisir librement
+      * Un mix des deux
+      * Il n'a pas pu choisir mais il est heureux/satisfait de sa profession
+      * Il n'a pas pu choisir, il a été forcé de faire une profession qu'il n'apprécie pas
+
+
+    table
+    Question / personne
+                                Les aînés/grands-parents jouent-ils un rôle au sein du ménage, par exemple prendre soin des enfants plus petits? (binary)           Décrivez le rôle que les aînés jouent au sein du ménage, par exemple prendre soin des enfants plus petits, aider le ménage, etc.? (text)           
+      * Femmes
+      * Hommes
+
+
+    multiple_one_solution
+    Dans quelle mesure êtes-vous satisfait du rôle que vous jouez au sein du ménage?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle importance donnez-vous à votre rôle au sein du ménage?
+    choices:
+      * Aucune
+      * Un peu
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Cultures
+   ID       PSP_04
+
+    binary_answer
+    Avez-vous des productions végétales (annuelles ou pérennes)?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Quelles plantes cultivez-vous
+                                Cochez si c'est le cas (toggle)           Combien de variétés cultivez-vous? (integer)           
+      * Orge
+      * Avoine
+      * Triticale
+      * Blé
+      * Maïs
+      * Amidonnier, engrain
+      * Seigle
+      * Epeautre
+      * Betteraves
+      * Pommes de terre
+      * Colza
+      * Soja
+      * Tournesol
+      * Lin
+      * Chanvre
+      * Féveroles
+      * Pois protéagineux
+      * Lupins
+      * Tabac
+      * Culture maraîchère de plein champ annuelle (sauf légume de conserve)
+      * Légumes de conserve cultivés en plein champ
+      * Racines de chicorée (witloof)
+      * Sarrasin
+      * Sorgho
+      * Baies annuelles (fraise, etc.)
+      * Matière première renouvelable annuelle (kénaf, etc.)
+      * Plantes aromatiques et médicinales annuelles
+      * Cultures horticoles de plein champ annuelles (fleurs, etc.)
+      * Bandes culturales extensives (céréales, oléagineux, légumineuses)
+      * Jachères florales
+      * Jachères tournantes
+      * Bandes fleuries pour les pollinisateurs et les autres organismes utiles
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    binary_answer_with_comment
+    Est-ce que vous cultivez des plantes pérennes?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Si oui lesquelles?
+                                Cochez (toggle)           
+      * Vigne
+      * Pommiers
+      * Poiriers
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Le nombre et la variété de cultures que vous cultivez sont-ils suffisant pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir un nombre diversifié de cultures pour votre système de production?
+    choices:
+      * Nulle
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Pratiques d'élevage
+   ID       PSP_05
+
+    binary_answer
+    Possédez-vous des animaux au sein de votre exploitation agricole?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Activité
+                                Combien d'animaux possédez-vous approximativement (integer)           Combien de variétés/races différentes possédez-vous pour chaque catégorie? (integer)           Appliquez-vous les normes/réglementations SST (Systèmes de stabulation particulièrement respectueux des animaux (cochez si oui)? (binary)           Appliquez-vous les normes SRPA (Sorties régulières en plein air (cochez si oui)? (binary)           
+      * Vache à viande
+      * Vache laitière
+      * Chèvre
+      * Mouton
+      * Cochon
+      * Volaille (poules, dindes, etc...)
+      * Chevaux
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Est-ce que le nombre et la variété de votre bétail suffisent à pourvoir aux besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir un ensemble de types de bétails différents pour votre système de production?
+    choices:
+      * Aucune
+      * Un peu
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Alimentation des animaux
+   ID       PSP_07
+
+    table
+    Question / animaux
+                                Laissez-vous les animaux pâturer dans les pâturages ou sur des terres agricoles pendant une partie de (ou toute) l'année? (toggle)           
+      * Vache à viande
+      * Vache laitière
+      * Chèvre
+      * Mouton
+      * Cochon
+      * Volaille (poules, dindes, etc...)
+      * Chevaux
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    text_answer
+    Combien d'autres aliments que les herbages donnez-vous à vos bovins? (par ex. maïs (plante entière ou épis), concentrés du commerce, pommes de terre, sous-produits de boulangerie, paille, etc.)
+
+
+    text_answer
+    Combien d'autres aliments que les concentrés du commerce et/ou les céréales produites sur l'exploitation donnez-vous à vos porcs? (par ex. petit-lait, sous-produits de boulangerie, fromage, etc)
+
+
+    multiple_one_solution
+    Donnez-vous à votre volaille d'autres aliments que les concentrés du commerce et/ou les céréales produites sur l'exploitation?
+    choices:
+      * Oui
+      * Non
+      * Non-applicable
+
+
+    multiple_one_solution
+    Quel pourcentage des aliments principaux pour animaux (en apport énergétique, pas en kg) est importé d'un autre pays?
+    choices:
+      * 0%
+      * 1-10%
+      * 11-20%
+      * 21-40%
+      * 41-80%
+      * >80%
+
+
+    binary_answer
+    Est-ce que vous stockez des aliments pour animaux au cas où il y aurait une pénurie?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    La combinaison entre les compléments affouragés aux animaux et leur accès aux pâturages est-elle suffisante pour répondre à leurs besoins?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de l'alimentation du bétail pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Aquaculture
+   ID       PSP_03
+
+    binary_answer
+    Pratiquez-vous l'aquaculture?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Activité
+                                Si oui, quelles espèces cultivez-vous? Par ex. crevette, perche, truite, etc. (text)           Pour chaque espèce mentionnée, combien de variétés élevez-vous? (integer)           Pour chaque espèce mentionnée, fournissez-vous des aliments complémentaires? (toggle)           Si oui, lesquels? (text)           Si oui, dans quelles circonstances fournissez-vous des aliments complémentaires? (text)           
+      * 1
+      * 2
+      * 3
+      * 4
+
+
+    multiple_one_solution
+    Est-ce que l'alimentation fournie satisfait les besoins des espèces que vous élevez?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de l'alimentation de vos poissons pour votre système de production?
+    choices:
+      * Nulle
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Sources de semences
+   ID       PSP_08
+
+    table
+    En général, quelles semences utilisez-vous?
+                                Origines des semences / du matériel végétal (graines, plants, etc.) (choice)           Origines des semences pour le bétail (mâles améliorateurs, insémination artificielle, etc.) (choice)           
+      * Gouvernement
+      * Magasins locaux/marché
+      * Amis/voisins/famille/autre exploitant
+      * Production propre
+      * Intermédiaires (commerçants d'intrants agricoles - fournisseurs/distributeurs)
+      * Banque de semences
+      * Groupes de producteurs ou entreprises de semences
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure cette combinaison spécifique de semences végétales vous permet-elle de satisfaire les besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à plusieurs sources de semences (végétales) pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+    multiple_one_solution
+    Dans quelle mesure cette combinaison de semences de bétail vous permet-elle de satisfaire les besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à plusieurs sources de bétail pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Utilisation de variétés et races adaptées au contexte
+   ID       PSP_09
+
+    multiple_one_solution
+    Utilisez-vous des variétés végétales non indigènes nouvellement introduites (variétés présentes dans la région depuis moins de 15 ans) comme des cultivars modernes, des cultivars importés, des variétés à haut rendement, des semences du secteur privé, etc.?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    text_answer
+    Pouvez-vous en nommer quelques-unes?
+
+
+    text_answer
+    Approximativement, quel pourcentage de vos cultures est une variété nouvellement introduite?
+
+
+    text_answer
+    Si vous utilisez des variétés/races nouvellement introduites, pour quelles raisons le faites-vous? Si vous ne les utilisez pas, pourquoi?
+
+
+    multiple_one_solution
+    Certaines de ces races ou variétés nouvellement introduites se sont-elles bien adaptées aux conditions environnementales de l'exploitation?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    multiple_one_solution
+    Est-ce que certaines plantes indigènes (locales) sont moins ou plus du tout adaptées à cause du changement climatique?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    text_answer
+    Si oui, lesquelles?
+
+
+    multiple_one_solution
+    Utilisez-vous des races non locales nouvellement introduites (variétés présentes dans la région depuis moins de 30 ans), comme des races importées, des races à rendement élevé, etc. ?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    text_answer
+    Si oui, lesquelles?
+
+
+    text_answer
+    Approximativement, quel pourcentage de vos races animales est une race nouvellement introduite?
+
+
+    text_answer
+    Si vous utilisez des variétés/races nouvellement introduites, pour quelles rasions le faites-vous? Si vous ne les utilisez pas, pourquoi?
+
+
+    multiple_one_solution
+    Certaines de ces races ou variétés nouvellement introduites se sont-elles bien adaptées aux conditions environnementales de l'exploitation?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    multiple_one_solution
+    Est-ce que certaines variétés locales sont moins ou plus du tout adaptées à cause de changements du climat?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    multiple_one_solution
+    Dans quelle mesure la combinaison des variétés locales/indigènes et nouvellement introduites que vous utilisez répond-elle aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de cette combinaison de variétés indigènes et nouvellement introduites (améliorées) pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Arbres et Agroforesterie
+   ID       PSP_10
+
+    binary_answer
+    Pratiquez-vous l'agroforesterie?
+    choices:
+      * Oui
+      * Non
+
+
+    text_answer
+    Approximativement, combien d'espèces d'arbres avez-vous plantées dans votre ferme?
+
+
+    binary_answer
+    Avez-vous planté plusieurs variétés différentes d'une même espèce d'arbre?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_multiple_solution
+    Pour quels usages avez-vous planté ces arbres (cochez les utilisations faites)?
+    choices:
+      * Bois de chauffage
+      * Bois pour les matériaux de construction
+      * Arbres pour l'ombre
+      * Produits alimentaires (pour animaux)
+      * Produits alimentaires (personnes)
+      * Fertilisants
+      * Remèdes naturels (animaux)
+      * Remèdes naturels (personnes)
+      * Produits pour la protection des cultures
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    En général, quel est le pourcentage global de vos terres agricoles couvertes par des arbres - en incluant les naturels et les plantés?
+    choices:
+      * 0 %
+      * 1-10 %
+      * 11-20 %
+      * 21-40 %
+      * 41-60 %
+      * 61+ %
+
+
+    text_answer
+    Quelles espèces sont naturelles?
+
+
+    multiple_multiple_solution
+    Quelle utilisation faites-vous des produits provenant de ces arbres spontanés/naturels?
+    choices:
+      * Bois de chauffage
+      * Bois pour les matériaux de construction
+      * Arbres pour l'ombre
+      * Produits alimentaires (pour animaux)
+      * Produits alimentaires (personnes)
+      * Fertilisants
+      * Remèdes naturels (animaux)
+      * Remèdes naturels (personnes)
+      * Produits pour la protection des cultures
+      * _OTHER_INPUT::Autre précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure la présence d'arbres dans vos parcelles répond-elle aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des arbres pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Pertes de culture et de bétail
+   ID       PSP_11
+
+    binary_answer
+    Au cours des 10 dernières années, avez-vous perdu une part importante de vos cultures (pertes avant récolte)?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_multiple_solution
+    Comment (cochez)?
+    choices:
+      * Prédateurs/Animaux nuisibles
+      * Maladies (bactéries, virus, champignons, etc.)
+      * Sécheresse
+      * Gel
+      * Inondations
+      * Forte pluie
+      * Vent violent
+      * Grêle
+      * Basse qualité des semences
+      * _OTHER_INPUT::Autre précisez)
+
+
+    table
+    Comment avez-vous fait face à ces pertes (cochez)?
+                                Cochez (toggle)           Précisez (text)           
+      * Capacités/stratégies d'adaptation internes
+      * Support externe
+
+
+    binary_answer
+    Au cours des 10 dernières années, avez-vous perdu une part importante de votre bétail?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_multiple_solution
+    Comment (cochez)?
+    choices:
+      * Maladies
+      * Sécheresse
+      * Inondations
+      * Animaux non clôturés
+      * Vol d'animaux
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    table
+    Comment (cochez)?
+                                Cochez (toggle)           Précisez (text)           
+      * Capacités/stratégies d'adaptation internes
+      * Support externe
+
+
+    multiple_one_solution
+    Dans quelle mesure avez-vous pu atténuer les effets négatifs de ces pertes?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure ces événements ont-ils affecté votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Tenue des registres
+   ID       PSP_12
+
+    table
+    Tenez-vous des registres pour ce qui suit?
+                                Réponse (choice)           
+      * Rendement agricole?
+      * Régime des pluies?
+      * Espèces envahissantes?
+      * Désherbage (lutte contre les mauvaises herbes)?
+      * Analyse de sol?
+      * Eau utilisée pour l'irrigation?
+      * Engrais?
+      * Produits phytosanitaires?
+      * Carburants?
+      * Recensement des animaux?
+      * _OTHER_INPUT::Autres (précisez)
+
+
+    multiple_one_solution
+    La tenue de vos registres est-elle adaptée pour comprendre et observer les tendances au fil du temps?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de la tenue des registres pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Infrastructures
+   ID       PSP_13
+
+    table
+    Activité
+                                Avez-vous les infrastructures suivantes dans un rayon de 10 km autour de votre exploitation? (toggle)           Utilisez-vous ces infrastructures? (binary)           
+      * Lieux de cultes
+      * Centre Communautaire (centre culturel etc.)
+      * Pompier
+      * Bureau de poste
+      * Ecole
+      * Centre médical
+      * Clinique vétérinaire
+      * Magasin d'intrants
+      * Banque de céréales
+      * Installations de stockage
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure ces infrastructures remplissent-elles leur fonction?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de ces infrastructures pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Changement climatique et pratiques agricoles
+   ID       PSP_14
+
+    binary_answer
+    Dans votre travail, entendez-vous parler du changement climatique?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Au cours des 10 dernières années, avez-vous observé des changements concernant la météo?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_multiple_solution
+    Si oui, quels changements avez-vous observé?
+    choices:
+      * Augmentation des précipitations
+      * Diminution des précipitations
+      * Plus grande variabilité des précipitations
+      * Pluies tardives
+      * Augmentation de la température
+      * Baisse des températures
+      * Inondations
+      * Retard à l'arrivée du printemps
+      * Arrivée du printemps précoce
+      * Infestation inhabituelle d'animaux nuisibles
+      * Sécheresse inhabituelle
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    text_answer
+    Si oui, quel a été l'impact de ces changements sur votre système de production?
+
+
+    binary_answer
+    Transmettez-vous des conseils donnés par des anciens permettant de faire face aux aléas du climat??
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Utilisez-vous les services de prévisions météorologiques (notamment les informations préventives sur les menaces climatiques potentielles, par ex. Agrométéo)?
+    choices:
+      * Oui
+      * Non
+
+
+    text_answer
+    Si oui, veuillez préciser la qualité de ces services. Si non, pourquoi?
+
+
+    binary_answer
+    Utilisez-vous des informations/services issus de la vulgarisation agricole?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Si oui, comment obtenez-vous généralement ces informations?
+                                cochez (toggle)           
+      * Radio
+      * Journal
+      * Revue spécialisée/professionnelle
+      * Télévision
+      * Agent de vulgarisation
+      * Groupe/organisation/association agricole
+      * Autres agriculteurs
+      * Internet
+      * _OTHER_INPUT::Autres (précisez)
+
+
+    binary_answer
+    Pensez-vous devoir encore vous former pour pouvoir diversifier votre système de production?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Avez-vous déjà entendu parler de l'agriculture de conservation?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    De combien de sources différentes obtenez-vous des informations sur l'utilisation de pesticides?
+    choices:
+      * Une seule source
+      * Deux sources
+      * Trois sources ou +
+
+
+    multiple_one_solution
+    Etes-vous satistfait de votre accès à l'information pour votre travail?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de ces informations pour adapter votre système de production en fonction de vos objectifs?
+    choices:
+      * Pas du tout
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Pratiques de contrôle des maladies animales
+   ID       PSP_15
+
+    binary_answer
+    Utilisez-vous des pratiques de contrôle des maladies pour vos animaux?
+    choices:
+      * Oui
+      * Non
+
+
+    text_answer
+    Combien de méthodes de lutte contre les maladies utilisez-vous pour vos animaux?
+
+
+    multiple_one_solution
+    Dans quelle mesure êtes-vous capable de contrôler les maladies chez vos animaux?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance du contrôle des maladies pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Pratiques de gestions des prédateurs
+   ID       PSP_16
+
+    binary_answer
+    Utilisez-vous des pratiques de gestion des prédateurs (ravageurs)/maladies sur vos cultures?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Quelles pratiques de gestion des prédateurs avez-vous utilisé au cours de la dernière saison de culture (cochez celles utilisées)?
+                                Cochez (toggle)           
+      * Pesticides naturels
+      * Variétés ou semences résistantes aux prédateurs
+      * Méthodes de lutte biologiques (par ex. parasitoïdes, coccinelles)
+      * Lutte mécanique
+      * Pesticides de synthèse
+      * Rotation des cultures afin de réduire la croissance des adventices et des déprédateurs
+      * Eclaircissement des plants
+      * Capture à la main des déprédateurs trouvés sur les plantes
+      * Traitement en pépinière
+      * Utilisation de pièges ou de pièges végétaux
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure les pratiques que vous utilisez vous permettent-elles une lutte suffisante contre les prédateurs/maladies?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure les pratiques que vous utilisez vous permettent de lutter efficacement contre les déprédateurs/maladies?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Utilisation de pesticides chimiques
+   ID       PSP_17
+
+    table
+    Pesticide
+                                Avez-vous utilisé des pesticides chimiques? (binary)           Avez-vous vérifié la présence des prédateurs/maladies sur vos cultures avant de pulvériser? (binary)           
+      * Insecticide
+      * Herbicide
+      * Fongicide
+
+
+    multiple_one_solution
+    Au cours de la dernière saison de culture, à quelle fréquence avez-vous utilisé un équipement de protection?
+    choices:
+      * Toujours
+      * Quelquefois
+      * Jamais
+
+
+    multiple_multiple_solution
+    Si oui, quelles protections utilisez-vous?
+    choices:
+      * Lunettes de protection
+      * Gants
+      * Masque
+      * Veste
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_multiple_solution
+    Que faites-vous des conteneurs après avoir utilisé les produits? (cochez les pratiques que vous utilisez)
+    choices:
+      * Donnés à des collecteurs
+      * Jetés à la poubelle
+      * Réutilisés
+      * Brûlés
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure l'utilisation de pesticides de synthèse vous permet-elle de contrôler les ravageurs de manière efficace?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des pesticides de synthèse pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Cultures associées
+   ID       PSP_18
+
+    binary_answer_with_comment
+    Pratiquez-vous la culture associée?
+    choices:
+      * Oui
+      * Non
+
+
+    integer_answer
+    Quel pourcentage de vos cultures est cultivé en culture associée?
+
+
+    binary_answer
+    Est-ce que vous cultivez des plantes en association avec l'aquaculture?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Etes-vous satisfait de votre pratique des cultures associées pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de cultiver des plantes en association pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+
+#########################################GROUP 
+ ID      GOV
+ COLOR   orange
+ TITLE   Gouvernance
+
+  ASPECT
+   TITLE    Politiques et programmes gouvernementaux sur le changement climatique et l'agriculture durable
+   ID       GOV_01
+
+    multiple_one_solution
+    Avez-vous connaissance de politiques ou de programmes gouvernementaux sur le changement climatique et l'agriculture durable?
+    choices:
+      * Oui
+      * Non
+      * Je ne sais pas
+
+
+    table
+    Si oui, quels effets ont-ils sur votre exploitation agricole:
+                                Cochez (toggle)           
+      * Aucun
+      * Paiements directs
+      * Education/Formation
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Si vous souhaitez/avez besoin d'adapter votre exploitation, est-ce que les normes/règles/politiques gouvernementales actuelles vous permettent d'entreprendre des travaux d'infrastructure nécessaires (par ex. travaux de construction)?
+    choices:
+      * Oui, elles sont suffisamment flexibles
+      * Non, elles ne sont pas flexibles
+
+
+    text_answer
+    Si non, veuillez décrire quelles contraintes vous gênent
+
+
+    binary_answer
+    Est-ce que les contraintes administratives freinent la capacité d'adaptation de votre exploitation?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Etes-vous satisfait du soutien gouvernemental reçu pour votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance du soutien gouvernemental pour le maintien de votre exploitation?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+
+#########################################GROUP 
+ ID      ENV
+ COLOR   green
+ TITLE   Environnement
+
+  ASPECT
+   TITLE    Accès à l'eau
+   ID       ENV_01
+
+    table
+    Pour chaque source d'eau que vous pouvez utiliser pour l'irrigation ou l'areuvement du bétail
+                                Type de source d'eau utilisée (choice)           Avez-vous vu des changements de quantité d'eau avec ces sources au cours des 5 dernières années? (choice)           Si oui, décrivez (text)           
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+
+
+    multiple_one_solution
+    Votre accès à l'eau est-il suffisant pour les besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure est-ce important d'avoir accès aux points d'eau pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Techniques et pratiques de conservation de l'eau
+   ID       ENV_02
+
+    multiple_multiple_solution
+    Dans votre système agricole, utilisez-vous les techniques de conservation de l'eau suivantes?
+    choices:
+      * Citernes
+      * Irrigation - canaliser l'eau
+      * Fosses de plantation et diguettes en pierre
+      * Fossés de rétention d'eau, murets en pierre, bandes de végétation, lignes de contours et fossés (sillons)
+      * Arrosage des plantes tôt le matin ou en soirée
+      * Terrassement
+      * Paillage
+      * Cultures de couverture
+      * Irrigation goutte à goutte
+      * Fossé d'écoulement/canaux (pour drainer)
+      * Barrage
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure les pratiques de conservation de l'eau utilisées vous permettent-elles d'économiser de l'eau dans votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de la conservation de l'eau pour votre système de production
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Qualité de l'eau
+   ID       ENV_03
+
+    table
+    Avez-vous rencontré certains des problèmes de qualité de l'eau suivants:
+                                Réponse (binary)           Si oui, expliquer la nature du problème (text)           
+      * Pollution par des pesticides ou d'autres produits chimiques (essence, sous-produits industriels)?
+      * Lessivage (engrais)?
+      * Augmentation de l'envasement (pollution par la boue)?
+      * Déversement de déchets organiques (par ex. du fumier ou des matières fécales)
+      * Pollution des eaux souterraines
+      * _OTHER_INPUT::Autres activités (précisez)
+
+
+    multiple_one_solution
+    L'eau à laquelle vous avez accès est-elle propre à la consommation humaine?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    L'eau à laquelle vous avez accès est-elle propre à la consommation animale?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    L'eau à laquelle vous avez accès est-elle propre à l'utilisation agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de la qualité de l'eau pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Propriété foncière
+   ID       ENV_04
+
+    table
+    Type
+                                Parcelle(s) en propriété (ha.) (integer)           Parcelle(s) prise(s) en location fixe avec bail (ha.) (integer)           Parcelle(s) prise(s) en location verbale sans bail (ha.)  (integer)           Autre (ha.)  (integer)           
+      * Surface agricole utile (hectares)
+      * Surface d'estivage (hectares)
+      * Autres surfaces ne rentrant ni dans la SAU ni dans les surfaces d'estivage (hectares)
+
+
+    text_answer
+    Surface totale (hectares):
+
+
+    text_answer
+    Combien de regroupements de parcelles avez-vous?
+
+
+    multiple_one_solution
+    Est-ce que votre accès au foncier est adéquat au fonctionnement de votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance pour votre exploitation de la maîtrise du foncier?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Qualité du sol
+   ID       ENV_05
+
+    integer_answer
+    Combien de types différents de sols pouvez-vous observer sur votre exploitation (approximativement)?
+
+
+    multiple_multiple_solution
+    Les sols sur votre exploitation sont-ils (cochez la réponse appropriée)
+    choices:
+      * Sableux?
+      * Limoneux?
+      * Argileux?
+      * Pierreux?
+
+
+    multiple_one_solution
+    Selon vous, en moyenne, quelle est la richesse de votre sol en matière organique?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Assez riche
+      * Elevée
+      * Je ne sais pas
+
+
+    binary_answer
+    Est-ce que vous faites un bilan de votre matière organique?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    En général, votre sol est-il fertile?
+    choices:
+      * Non
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure l'état de fertilité de votre sol affecte-t-il votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+    binary_answer
+    Avez-vous observé une tendance à la dégradation des sols ces 5 dernières années?
+    choices:
+      * Oui
+      * Non
+
+
+    text_answer
+    Si oui, pouvez-vous citer les principales causes de cette dégradation?
+
+
+    multiple_one_solution
+    Dans votre choix variétal, prenez-vous en considération les conditions locales?
+    choices:
+      * Oui
+      * Non
+      * Pas applicable
+
+
+    multiple_one_solution
+    Dans votre choix des races d'animaux, prenez-vous en considération les conditions locales?
+    choices:
+      * Oui
+      * Non
+      * Pas applicable
+
+
+  ASPECT
+   TITLE    Pratiques et gestion des terres
+   ID       ENV_06
+
+    table
+    Quelles pratiques d'amélioration de la qualité des sols utilisez-vous?
+                                Réponse (binary)           Merci de compléter si nécessaire (text)           
+      * Chaulage
+      * Jachère
+      * Semis direct
+      * Travail superficiel
+      * Pâturage en rotation
+      * Rotation des cultures
+      * Coupe-vent/haie
+      * Culture associée
+      * Paillage
+      * Culture de couverture
+      * Fumure / compostage
+      * Bandes végétales
+      * Agroforesterie, reboisement
+      * Contrôle / réhabilitation des ravins
+      * Terrassement
+      * Autres pratiques d'amélioration de la qualité des sols
+
+
+    multiple_one_solution
+    Dans quelle mesure les pratiques de gestion (du sol) utilisées améliorent-elles la qualité de vos sols?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle importance des pratiques de gestion des terres pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Plantes légumineuses
+   ID       ENV_07
+
+    multiple_one_solution
+    Intégrez-vous des légumineuses dans votre plan de rotation?
+    choices:
+      * Oui chaque année
+      * Oui mais pas chaque année
+      * Jamais
+
+
+    text
+    Quelle espèce / quel type?
+
+
+    multiple_one_solution
+    De manière générale, dans quelle mesure vos cultures de légumineuses vous satisfont-elles (production, sol,...)?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des plantes légumineuses pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Zones écologiques tampons
+   ID       ENV_08
+
+    multiple_one_solution
+    Votre terrain est-il bordé par des terres sauvages / zones protégées / non aménagées?
+    choices:
+      * 15% ou +
+      * 7% ou + mais moins de 15%
+      * Moins de 7%
+      * Pas du tout
+
+
+    multiple_one_solution
+    Est-ce que la présence de zones tampons réduit les pertes de récoltes dues aux déprédateurs?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Est-ce que la présence de zone tampons est importante pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Sources d'énergie
+   ID       ENV_09
+
+    table
+    Quelles sources d'énergie sont utilisées dans votre système agricole?
+                                Chauffage (toggle)           Eclairage (toggle)           Machines (toggle)           
+      * Solaire
+      * Vent
+      * Eau
+      * Bois de chauffage
+      * Charbon
+      * Déchets ménagers
+      * Résidus agricoles
+      * Résidus de bois
+      * Fumier
+      * Essence
+      * Paraffine (pétrole)
+      * Diesel
+      * Gaz naturel (sous-terrain)
+      * Biogaz (à partir de composte ou fumier)
+      * Electricité (source publique)
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    A quel point l’énergie que vous utilisez dépend d'acteurs externes?
+    choices:
+      * Tout ou la plupart de l'énergie dépend d'acteurs externes (0-20% viennent de votre propre exploitation)
+      * Environ la moitié de l'énergie dépend d'acteurs externes (21-50% viennent de votre propre exploitation)
+      * Plus de la moitié de l'énergie vient de votre propre exploitation (51-80% viennent de votre propre exploitation)
+      * Tout ou la plupart (81-100%) de l'énergie vient de votre propre exploitation
+
+
+    multiple_one_solution
+    Les sources d'énergie utilisées sont-elles suffisantes pour répondre aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à l'énergie pour votre système de production (en considérant chauffage, éclairage et machines)
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Conservation de l'énergie
+   ID       ENV_10
+
+    binary_answer
+    Utilisez-vous des pratiques de conservation de l'énergie pour réduire les coûts de l'énergie sur l'exploitation?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Quelles méthodes utilisez-vous?
+                                Cochez (toggle)           
+      * Ampoules à faible consommation d'énergie
+      * Installation de biogaz
+      * Isolation efficace
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    binary_answer
+    Est-ce que vous stockez le lisier dans un récipient ouvert ou fermé?
+    choices:
+      * Ouvert
+      * Fermé
+
+
+    binary_answer
+    Est-ce que vous stockez le fumier dans un récipient ouvert ou fermé?
+    choices:
+      * Ouvert
+      * Fermé
+
+
+    binary_answer
+    Si un des récipients est fermé, utilisez-vous une centrale à biogaz pour récupérer l'énergie pour votre exploitation?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Si oui, est-ce que la centrale à biogaz est sur votre exploitation?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure ces techniques vous permettent-elles de faire des économies d'énergie?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'économiser l'énergie pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Engrais
+   ID       ENV_11
+
+    binary_answer
+    Avez-vous utilisé des engrais de synthèse cette saison?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Si vous utilisez de l'engrais de synthèse, vérifiez-vous (avant l'application) le sol et les plantes pour voir s'ils en ont vraiment besoin?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Si non, pourquoi?
+                                Cochez (toggle)           
+      * _OTHER_INPUT::Je ne veux pas (expliquez pourquoi)
+      * Trop cher
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Votre accès aux engrais de synthèse est-il suffisant pour les besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle importance de l'accès aux engrais de synthèse pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+    table
+    Avez-vous utilisé des engrais naturels organiques (fumier / compost) cette saison?
+                                Réponse (binary)           Si non, pourquoi? (text)           Si oui, proviennent-ils de votre exploitation? (binary)           
+      * Compost
+      * Purin / fumier animal
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    binary_answer
+    Si vous utilisez de l'engrais naturel organique, vérifiez-vous (avant l'application) le sol et les plantes pour voir s'ils en ont vraiment besoin?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Combinez-vous l'engrais synthétique et naturel?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    En général, où vous approvisionnez-vous pour votre engrais?
+                                Cochez (toggle)           
+      * Au sein de l'exploitation
+      * Coopérative agricole
+      * Autre distributeur
+      * Autre exploitation
+      * Agent de vulgarisation
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    En général, est-ce que votre accès aux engrais naturels satisfait les besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de l'accès aux engrais naturels pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Adventices
+   ID       ENV_12
+
+    table
+    Dans vos parcelles, quelles pratiques de gestion des adventices utilisez-vous?
+                                Cochez (toggle)           
+      * Cultures de couverture
+      * Paillis
+      * Désherbage manuel
+      * Désherbage mécanique
+      * Faux semis
+      * Herbicides
+      * Rotation des cultures
+      * Pâturage du bétail
+      * Mesures préventives (ex. travail avec machines)
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    integer_answer
+    Combien d'espèces envahissantes avez-vous observé sur votre exploitation ces 10 dernières années?
+
+
+    binary_answer
+    Ces espèces d'adventices affectent-elles négativement votre système agricole?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure les méthodes que vous utilisez sont-elles efficaces pour réduire les effets négatifs des adventices sur votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure les espèces d'adventices sont-elles préjudiciables à votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+
+#########################################GROUP 
+ ID      SOC
+ COLOR   blue
+ TITLE   Social
+
+  ASPECT
+   TITLE    Appartenance à un groupe
+   ID       SOC_01
+
+    binary_answer
+    Êtes-vous membres d'un groupe, d'une organisation ou d'une association?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Type de groupe
+                                Participation (toggle)           Degré (choice)           Fréquence des rencontres (choice)           
+      * Banque de semences
+      * Groupe de vulgarisation
+      * Association professionnelle
+      * Groupe sur l'eau ou les déchets
+      * Groupe religieux
+      * Groupe de jeunes
+      * Comité sur la santé
+      * Groupes de paysans / pêcheurs
+      * Coopératives/organisation de producteurs
+      * Syndicat
+      * Autre association locale / régionale
+      * Association culturelle
+      * Groupe de femmes
+      * Groupe sportif
+      * Club d'écoute
+      * Organisation de commerçant, groupe d'entreprise
+      * Groupe de crédit / de finance
+      * Groupe société civile
+      * Groupe politique
+      * Groupe de parents / comité scolaire
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    table
+    Avec qui échangez-vous directement?
+                                Cochez (toggle)           
+      * Ingénieur agronome
+      * Représentant du gouvernement
+      * Distributeur
+      * Acheteur direct de mes produits
+      * Autres agriculteurs
+      * Membre de la famille travaillant sur l'exploitation
+      * Citoyen-consommateur
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    binary_answer
+    Pensez-vous que le(s) groupe(s) au(x)quel(s) vous appartenez peut/peuvent influencer les politiques gouvernementales?
+    choices:
+      * Oui
+      * Non
+
+
+    text
+    Pouvez-vous précisez
+
+
+    multiple_one_solution
+    En règle générale, dans quelle mesure est-ce que ces groupes vous apportent des avantages?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Au niveau de votre système agricole considérez-vous important d'être membre d'un groupe?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+    multiple_one_solution
+    Dans quelle mesure faire partie de ces groupes vous a donné des connaissances pour améliorer votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des informations reçues à travers ces groupes pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Alimentation de la famille
+   ID       SOC_02
+
+    binary_answer
+    Est-ce que chaque individu du ménage a accès à une alimentation suffisante et de qualité?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    En règle générale, les besoins alimentaires de votre ménage sont-ils couverts?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Selon vous, quelle est l'importance d'une alimentation diversifiée et de qualité pour votre ménage?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Réactions face aux aléas
+   ID       SOC_03
+
+    table
+    Quels aléas avez-vous subis ces 10 dernières années?
+                                Cochez (toggle)           
+      * Invasion de prédateurs
+      * Inondations
+      * Incendie
+      * Maladies (végétales, animales et humaines)
+      * Conflit (de voisinage, villageois, politique, ...)
+      * Pluies au mauvais moment
+      * Neige
+      * Grêle
+      * Vents violents
+      * Sécheresse
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    binary_answer
+    Avez-vous changé vos habitudes en réponse au changement climatique?
+    choices:
+      * Oui
+      * Non
+
+
+    text
+    Si oui, comment?
+
+
+    multiple_one_solution
+    En cas d'aléa, vous sentez-vous capable de vous adapter?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    binary_answer
+    En cas d'aléa, pensez-vous avoir suffisamment de soutien de votre entourage (familial, amical, ...)?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure vos réactions ont permis de régler ces perturbations?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure ces aléas ont-ils touché votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Accès vétérinaire
+   ID       SOC_04
+
+    multiple_one_solution
+    Utilisez-vous les services vétérinaires?
+    choices:
+      * Oui et ils sont de bonne qualité
+      * Oui mais ils sont problématiques (personnel non qualifié, cher, distant, etc.)
+      * Non
+
+
+    multiple_one_solution
+    Votre accès aux services vétérinaires répond-il aux besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à des services vétérinaires pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Confiance et coopération
+   ID       SOC_05
+
+    multiple_one_solution
+    De façon générale, diriez-vous que l'on peut faire confiance à la plupart des gens de votre village / voisinage?
+    choices:
+      * Oui
+      * Moyennement
+      * None
+
+
+    binary_answer
+    Dans votre village / voisinage, faites-vous généralement confiance aux autres pour prêter et emprunter?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Si un projet collectif ne vous profite pas directement, mais profite à beaucoup d'autres dans le village / voisinage, seriez-vous d'accord pour consacrer (cocher la/les contribution(s) que vous envisagez)
+                                Contribution (toggle)           
+      * Du temps
+      * De l'argent
+      * Aucun des deux
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    table
+    Est-ce que vous avez du soutien pour remplir les tâches ménagères?
+                                Soutien (toggle)           
+      * Cuisine
+      * Lessive
+      * Nettoyage de la maison
+      * Garde des enfants
+      * _OTHER_INPUT::Autre(précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure la confiance et la coopération sont-elles suffisantes dans votre village / voisinage?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de la confiance et de la coopération dans votre village / voisinage pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Actions collectives passées
+   ID       SOC_06
+
+    multiple_one_solution
+    S'il y a eu des problèmes d'ordre collectif qui ont nécessité de l'attention au cours de l'année passée, à quelle fréquence vous êtes-vous joint aux autres exploitants pour les régler?
+    choices:
+      * Jamais
+      * Rarement
+      * Quelques fois
+      * Fréquemment
+      * Pas applicable
+
+
+    binary_answer
+    Partagez-vous des machines avec d'autres agriculteurs?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Echangez-vous des parcelles avec d'autres agriculteurs?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure les actions collectives ont-elles contribué à la résolution des problèmes?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure ces actions collectives sont-elles importantes pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+
+#########################################GROUP 
+ ID      EC
+ COLOR   red
+ TITLE   Volet économique
+
+  ASPECT
+   TITLE    Principaux avoirs productifs
+   ID       EC_09
+
+    table
+    Classer par ordre d'importance les capitaux principaux liés à la production que vous possédez. (1 = le plus important, 6 = le moins important)
+                                Importance (choice)           Précision si nécessaire (text)           
+      * Terre
+      * Bétail
+      * Semences agricoles / jeunes plants
+      * Bâtiments
+      * Machines agricoles
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Est-ce que cette combinaison de capitaux est adéquate pour soutenir votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure la diversité de vos capitaux productifs est-elle importante pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Assurance
+   ID       EC_08
+
+    table
+    Qu'avez-vous assuré?
+                                Culture / bétail / revenu / bâtiments / ... (text)           Contre une perte due au climat (toggle)           Contre le feu / l'incendie (toggle)           Contre d'autres pertes (toggle)           Précisez (text)           Avez-vous fait une déclaration à votre assurance au cours des 5 dernières années? (toggle)           
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * 6
+      * 7
+      * 8
+      * 9
+      * 10
+
+
+    multiple_one_solution
+    Est-ce que votre assurance vous satisfait?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir une assurance pour votre système de production?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Revenu au sein du ménage
+   ID       EC_11
+
+    multiple_one_solution
+    Combien de sources différentes de revenus y a-t-il au sein de votre ménage? (revenus agricoles, revenus issus de l'agritourisme, revenus non-agricoles,...)
+    choices:
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * 6+
+
+
+    table
+    Quelles sont les trois principales sources de revenus de votre ménage?
+                                Importance (choice)           
+      * 1ère source
+      * 2ème source
+      * 3ème source
+
+
+    multiple_one_solution
+    Comment est-ce que le revenu agricole de l'exploitation a évolué au cours des 5 dernières années?
+    choices:
+      * Déficit croissant
+      * Déficit stable
+      * Pas de déficit et pas de profit
+      * Profit stable
+      * Profit croissant
+
+
+    integer_answer
+    Quel pourcentage représente le soutien financier gouvernemental (paiements directs) par rapport au chiffre d'affaires agricole de votre exploitation?
+
+
+    binary_answer
+    Pensez-vous que votre exploitation pourrait subsister sans le soutien financier gouvernemental?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure la combinaison de ces sources de revenus répond-elle aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir une diversification de vos sources de revenus pour votre système agricole?
+    choices:
+      * Aucune
+      * Faible
+      * Moyenne
+      * Elevée
+      * Très élevée
+
+
+  ASPECT
+   TITLE    Activités génératrices de revenus externes à l'exploitation agricole
+   ID       EC_12
+
+    multiple_one_solution
+    Est-ce qu'une personne de votre ménage (autre que vous même) a une activité génératrice de revenus externe à l'exploitation agricole?
+    choices:
+      * Oui, toute l'année
+      * Oui, saisonnièrement
+      * Oui, occasionnellement
+      * Non
+
+
+    binary_answer
+    Pensez-vous que votre exploitation pourrait subsister sans ces activités?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Retirez-vous une satisfaction suffisante de vos activités externes à l'exploitation agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de ces activités pour votre exploitation agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Epargnes
+   ID       EC_14
+
+    binary_answer
+    Avez-vous plus d'économies qu'il y a cinq ans?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_multiple_solution
+    Comment économisez-vous de l'argent?
+    choices:
+      * Banque
+      * Achat de biens d'investissement (terrain, immobilier, etc.)
+      * Argent à la maison
+      * Investissements/placements financiers
+      * Achat de bétail
+      * Structure ou groupe d'épargne
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Est-ce que votre façon d'épargner vous permet de répondre aux besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à des structures d'épargnes pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Sources de financement
+   ID       EC_01
+
+    multiple_one_solution
+    Quel pourcentage représente vos fonds propres par rapport au total des actifs?
+    choices:
+      * Moins de 45% de fonds propres
+      * 45-55% de fonds propres
+      * Plus de 55% de fonds propres
+
+
+    multiple_one_solution
+    Est-ce que la part de vos fonds propres par rapport au total de vos actifs est suffisante pour votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de vos fonds propres pour votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Investissement pour adapter/transformer l'exploitation
+   ID       EC_15
+
+    multiple_one_solution
+    Si vous avez besoin/envie d'adapter votre exploitation, est-ce que vos ressources financières vous permettent une certaine marge de manoeuvre?
+    choices:
+      * Oui, j'ai une grande 'marge de manoeuvre'
+      * J'ai un peu de 'marge de manoeuvre' (c.-à-d. ce que je peux faire/entreprendre est limité)
+      * Non, je n'ai pas de 'marge de manoeuvre' (par ex. dû à de grosses dettes)
+
+
+    binary_answer
+    Sans faire d'emprunts d'argent, est-ce que vous avez actuellement la capacité financière de maintenir un bon état de fonctionnement de votre parc machines/installations fixes?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Est-ce que vos ressources financières sont suffisantes pour adapter votre exploitation en cas de nécessité?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance pour votre exploitation d'avoir suffisamment de ressources financière pour adapter votre exploitation en cas de nécessité?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Dépenses principales
+   ID       EC_10
+
+    table
+    Quelles ont été vos plus grosses dépenses l'année dernière?
+                                Elément de dépenses (par ex. éducation) (choice)           
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+
+
+    binary_answer
+    Etes-vous dûment rémunéré pour vos efforts écologiques?
+    choices:
+      * Oui
+      * Non
+
+
+    binary_answer
+    Est-ce que vos dettes actuelles menacent votre exploitation de faire faillite prochainement?
+    choices:
+      * Oui
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure vos dépenses sont-elles gérables pour l'exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure le maintien d'un niveau de dépenses gérables est-il important pour votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Intrants agricoles locaux
+   ID       EC_13
+
+    table
+    Etes-vous à moins de 50 km du lieu d'approvisionnement de la plupart de vos intrants?
+                                 (choice)           
+      * Semences agricoles/jeunes plants
+      * Mâle améliorateur/bétail
+      * Engrais
+      * Equipement
+      * Pesticides
+      * Connaissances/servies de vulgarisation
+      * Main d'oeuvre (par ex: personnes employées pour le travail manuel dans les champs)
+      * Capital (par ex. banque)
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    integer_answer
+    Quel pourcentage (approximativement) de vos intrants provient de votre propre exploitation?
+
+
+    multiple_one_solution
+    Dans quelle mesure l'accès aux intrants agricoles locaux répond-il aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance d'avoir accès à des intrants agricoles locaux pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Technologies de l'Information et Communication (TIC)
+   ID       EC_07
+
+    table
+    ?
+                                Est-ce que vous utilisez (choice)           
+      * Téléphone mobile?
+      * Connexion internet?
+      * Ordinateur chez soi?
+      * Tablette informatique?
+      * Télévision?
+      * Radio?
+      * Guidage ou assistance par GPS?
+      * Drone?
+      * Cahier de champ électronique?
+      * _OTHER_INPUT::Autre (précisez)
+
+
+    multiple_one_solution
+    Dans quelle mesure votre accès aux TIC satisfait-il les besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des TIC pour votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Informations sur le marché
+   ID       EC_06
+
+    multiple_one_solution
+    A quelle fréquence utilisez-vous les informations sur les prix du marché?
+    choices:
+      * Souvent
+      * Quelques fois 
+      * Jamais/Très rarement
+
+
+    multiple_one_solution
+    Dans quelle mesure votre utilisation des informations sur le marché répond-elle aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de l'utilisations des informations sur le marché de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Accès au marché - Achat
+   ID       EC_03
+
+    table
+    Activité
+                                Réponse (choice)           Si oui, pour quels produits? (text)           
+      * Achetez-vous la plupart de vos produits directement auprès des producteurs (par ex. producteurs d'intrants, autres agriculteurs)?
+      * Est-ce qu'un de vos intrants pour la production végétale n'est disponible qu'auprès d'un seul vendeur/fournisseur?
+      * Est-ce qu'un de vos intrants pour la production animale n'est disponible qu'auprès d'un seul vendeur/fournisseur?
+
+
+    multiple_multiple_solution
+    Si vous avez un accord ou bien des documents contraignants (par ex. un contrat) avec un vendeur/fournisseur, êtes-vous satisfait des conditions ou est-ce que ça limite votre flexibilité?
+    choices:
+      * Je suis satisfait
+      * Un mixte des deux
+      * Ca limite la flexibilité de mon exploitation
+
+
+    multiple_one_solution
+    Le nombre et la qualité de vos fournisseurs suffisent-ils à satisfaire les besoins de votre système de production?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance pour votre exploitation d'avoir plusieurs fournisseurs disponibles?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Accès au marché - Vente
+   ID       EC_04
+
+    table
+    Produits vendus qui vous rapportent le plus?
+                                Description (text)           Avez-vous des produits pour lesquels vous n'avez qu'un acheteur disponible? (binary)           Si vous avez un accord ou bien des documents contraignants (par ex. contrat) avec un acheteur, êtes-vous satisfait des conditions ou est-ce que ça limite votre flexibilité? (choice)           A quel point êtes-vous impliqué dans la chaîne de valorisation/transformation de vos produits? (choice)           Pour chacun des produits du tableau, vous sentez-vous menacé par les bas prix des produits concurrents importés? (binary)           
+      * Production 1
+      * Production 2
+      * Production 3
+      * Production 4
+      * Production 5
+      * Production 6
+
+
+    multiple_one_solution
+    Est-ce que vos modes de commercialisation sont adéquats pour votre exploitation?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance pour votre exploitation du mode de commercialisation des produits?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Circuits courts
+   ID       EC_02
+
+    binary_answer
+    Utilisez-vous un(des) circuit(s) court(s)?
+    choices:
+      * Oui
+      * Non
+
+
+    table
+    Produits vendus en circuit court?
+                                Description (text)           Vendez/négociez-vous ces produits directement auprès des consommateurs? (binary)           Si oui, à quelle fréquence? (choice)           Vendez-vous vos produits sur les marchés locaux? (choice)           
+      * Production 1
+      * Production 2
+      * Production 3
+      * Production 4
+      * Production 5
+      * Production 6
+
+
+    integer_answer
+    Quel pourcentage de vos produits sont vendus par la vente directe?
+
+
+    multiple_one_solution
+    Dans quelle mesure l'utilisation de circuits courts répond-il aux besoins de votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance de l'utilisation de circuits courts pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Prix
+   ID       EC_16
+
+    table
+    Répondez pour chaque culture/animal séparément
+                                Description (text)           Comment commercialisez-vous vos produits les plus rentables? (choice)           Su vous faites de l'agriculture contractuelle, avez-vous un mot à dire lors des négociations du contenu du contrat? (binary)           Vous considérez-vous comme un acteur de la chaîne agroalimentaire ou comme entité productive individuelle? (choice)           Qui détermine principalement ce que vous produisez? (choice)           Participez-vous dans la détermination du cahier des charges local? (choice)           Participez-vous dans la détermination du cahier des charges régional? (choice)           Participez-vous dans la détermination du cahier des charges fédéral? (choice)           
+      * Production 1
+      * Production 2
+      * Production 3
+      * Production 4
+      * Production 5
+      * Production 6
+
+
+    multiple_one_solution
+    Les prix (concernant la vente) sont-ils suffisamment élevés et constants pour votre exploitation?
+    choices:
+      * Oui
+      * Pas suffisamment
+      * Non
+
+
+    multiple_one_solution
+    Dans quelle mesure les fluctuations des prix influencent-elles votre exploitation agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Quelle est l'importance des interactions avec les autres acteurs de la chaîne agroalimentaire pour votre système agricole?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
+
+  ASPECT
+   TITLE    Interaction entre acteurs de la chaîne agroalimentaire
+   ID       EC_16
+
+    table
+    Décrivez les produits vendus qui vous rapportent le plus d'argent
+                                Description (text)           Décrivez le prix de ce produit (au cours des 3 dernières années) (choice)           Autre (text)           
+      * Culture / animal 1
+      * Culture / animal 2
+      * Culture / animal 3
+      * Culture / animal 4
+      * Culture / animal 5
+      * Culture / animal 6
+
+
+    multiple_one_solution
+    Les prix (concernant la vente) sont-ils suffisamment élevés et constants pour vos moyens de subsistance?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Complètement
+
+
+    multiple_one_solution
+    Dans quelle mesure les fluctuations des prix influencent-elles votre subsistance?
+    choices:
+      * Pas du tout
+      * Un peu
+      * Moyennement
+      * Beaucoup
+      * Très
+
