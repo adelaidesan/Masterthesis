@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous un(des) circuit(s) court(s)?",
+	"title":"Verkaufen Sie Produkte direkt an den Kunden?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Le nombre et la qualité de vos fournisseurs suffisent-ils à satisfaire les besoins de votre système de production?",
+	"title":"Sind die Anzahl und die Qualität der Verkäufer ausreichend für Ihren Betrieb?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

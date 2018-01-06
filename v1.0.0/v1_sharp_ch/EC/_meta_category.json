@@ -1,7 +1,7 @@
 {
 	"group_id":"EC",
 	"color":"red",
-	"title":"Volet économique",
+	"title":"Wirtschaft",
 	"order": [
 		"EC_09",
 		"EC_08",

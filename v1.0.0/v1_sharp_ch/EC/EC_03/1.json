@@ -1,23 +1,23 @@
 {
 	"question-type":"table",
-	"title":"Activité",
+	"title":"Aktivitäten",
 	"lines": [
-		"Achetez-vous la plupart de vos produits directement auprès des producteurs (par ex. producteurs d'intrants, autres agriculteurs)?",
-		"Est-ce qu'un de vos intrants pour la production végétale n'est disponible qu'auprès d'un seul vendeur/fournisseur?",
-		"Est-ce qu'un de vos intrants pour la production animale n'est disponible qu'auprès d'un seul vendeur/fournisseur?"
+		"Kaufen Sie die meisten Ihrer Produkte direkt beim Hersteller (Bsp. Betriebsmittelanbieter, andere Bauern)?",
+		"Brauchen Sie speziellen Input für die Pflanzenproduktion, die Sie nur von einem verfügbaren Händler bekommen?",
+		"Brauchen Sie speziellen Input für die Tierproduktion, die Sie nur von einem verfügbaren Händler bekommen?"
 	],
 	"columns": [
 		{
-			"title":"Réponse",
+			"title":"Antwort",
 			"type":"choice",
 			"choices": [
-				"Oui",
-				"Non",
-				"Non applicable"
+				"Ja",
+				"Nein",
+				"Nicht anwendbar"
 			]
 		}, 
 		{
-			"title":"Si oui, pour quels produits?",
+			"title":"Falls ja, für welche Produkte",
 			"type":"text"
 		}
 	]

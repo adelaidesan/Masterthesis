@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Si vous avez un accord ou bien des documents contraignants (par ex. un contrat) avec un vendeur/fournisseur, êtes-vous satisfait des conditions ou est-ce que ça limite votre flexibilité?",
+	"title":"Falls Sie bindende Verträge mit den Verkäufern/Anbietern haben, sind Sie mit den Bedingungen zufrieden oder fühlen Sie sich in Ihrer Flexibilität eingeschränkt?",
 	"choices": 
 		[
-			"Je suis satisfait",
-			"Un mixte des deux",
-			"Ca limite la flexibilité de mon exploitation"
+			"Ich bin zufrieden",
+			"Eine Mischung von beidem",
+			"Es beschränkt meine Flexibilität"
 		],
 	"mandatory":true
 }

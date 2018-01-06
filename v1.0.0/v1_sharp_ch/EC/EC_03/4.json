@@ -1,12 +1,12 @@
  {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance pour votre exploitation d'avoir plusieurs fournisseurs disponibles?",
+	"title":"Wie wichtig ist es für Ihr Auskommen mehrere mögliche Verkäufer zu haben?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true
