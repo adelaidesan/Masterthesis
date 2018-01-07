@@ -1,17 +1,18 @@
 {
 	"question-type":"table",
-	"title":"Classer par ordre d'importance les capitaux principaux liés à la production que vous possédez. (1 = le plus important, 6 = le moins important)",
+	"title":"Ordnen Sie Ihre produktiven Vermögenswerte nach Wichtigkeit (1 = am wichtigsten, 6 = am wenigsten wichtig)",
 	"lines" : [
-		"Terre",
-		"Bétail",
-		"Semences agricoles / jeunes plants",
-		"Bâtiments",
-		"Machines agricoles",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Land",
+		"Nutzpfanzen",
+		"Nutztiere",
+		"Saatgut / Setzlinge",
+		"Gebäude",
+		"Landwirtschaftliche Maschinen",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
 	],
 	"columns": [
 		{
-			"title":"Importance",
+			"title":"Wichtigkeit",
 			"type":"choice",
 			"choices": [
 				"1",
@@ -20,11 +21,11 @@
 				"4",
 				"5",
 				"6",
-				"Pas de possession"
+				"Kein Besitz"
 			]
 		},
 		{
-			"title":"Précision si nécessaire",
+			"title":"Bitte genauer ausführen, falls nötig:",
 			"type":"text"
 		}
 

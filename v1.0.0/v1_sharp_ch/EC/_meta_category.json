@@ -1,7 +1,7 @@
 {
 	"group_id":"EC",
 	"color":"red",
-	"title":"Wirtschaft",
+	"title":"Wirtschaftliche Komponente",
 	"order": [
 		"EC_09",
 		"EC_08",

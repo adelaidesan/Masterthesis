@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance des TIC pour votre système de production?",
+	"title":"Wie wichtig sind IKTs für Ihren Betrieb",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein bisschen",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

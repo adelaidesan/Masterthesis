@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure la diversité de vos capitaux productifs est-elle importante pour votre système de production?",
+	"title":"Inwieweit ist eine Diversität von Vermögenswerten wichtig für Ihren Betrieb?",
 	"choices":[
-		"Aucune",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":"true"
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce que cette combinaison de capitaux est adéquate pour soutenir votre système de production?",
+	"title":"Ist die Gesamtheit der Vermögenswerte ausreichend für die Bedürfnisse Ihres Betriebs?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

@@ -1,25 +1,25 @@
 {
 	"question-type":"table",
-	"title":"?",
+	"title":"",
 	"lines": [
-		"Téléphone mobile?",
-		"Connexion internet?",
-		"Ordinateur chez soi?",
-		"Tablette informatique?",
-		"Télévision?",
+		"Mobiltelefon?",
+		"Internet?",
+		"Computer?",
+		"Tablet?",
+		"Fernseher?",
 		"Radio?",
-		"Guidage ou assistance par GPS?",
-		"Drone?",
-		"Cahier de champ électronique?",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Maschinen, die mit GPS ausgestattet sind?",
+		"Dronen?",
+		"Elektronisches Feldbuch?",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
 	],
 	"columns": [
 		{
-			"title":"Est-ce que vous utilisez",
+			"title":"Nutzen Sie:",
 			"type":"choice",
 			"choices": [
-				"Oui",
-				"Non"
+				"Ja",
+				"Nein"
 			]
 		}
 	

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure le maintien d'un niveau de dépenses gérables est-il important pour votre exploitation?",
+	"title":"Wie wichtig ist es für Sie, Ihre Ausgaben gewissermaßen überschaubar zu halten?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":true
 }

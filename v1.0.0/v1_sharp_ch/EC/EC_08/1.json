@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Qu'avez-vous assuré?",
+	"title":"Was haben Sie versichert?",
 	"lines" : [
 		"1",
 		"2",
@@ -15,27 +15,27 @@
 	],
 	"columns": [
 		{
-			"title":"Culture / bétail / revenu / bâtiments / ...",
+			"title":"Nutzpflanzen  / Nutztiere / Einkommen / Gebäude / ...",
 			"type":"text"
 		},
 		{
-			"title":"Contre une perte due au climat",
+			"title":"Wetterschäden",
 			"type":"toggle"
 		},
 		{
-			"title":"Contre le feu / l'incendie",
+			"title":"Gegen Feuer",
 			"type":"toggle"
 		},
 		{
-			"title":"Contre d'autres pertes",
+			"title":"Gegen andere Verluste",
 			"type":"toggle"
 		},
 		{
-			"title":"Précisez",
+			"title":"Bitte spezifizieren",
 			"type":"text"
 		},
 		{
-			"title":"Avez-vous fait une déclaration à votre assurance au cours des 5 dernières années?",
+			"title":"Haben Sie in den letzten 5 Jahren Anspruch auf die Versicherung genommen?",
 			"type":"toggle"
 		}
 

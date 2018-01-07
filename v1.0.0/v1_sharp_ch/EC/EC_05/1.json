@@ -1,34 +1,34 @@
 {
 	"question-type":"table",
-	"title":"Décrivez les produits vendus qui vous rapportent le plus d'argent",
+	"title":"Welche Produkte können Sie am profitabelsten vermarkten?",
 	"lines" : [
-		"Culture / animal 1",
-		"Culture / animal 2",
-		"Culture / animal 3",
-		"Culture / animal 4",
-		"Culture / animal 5",
-		"Culture / animal 6"
+		"Kultur / Tier 1",
+		"Kultur / Tier 2",
+		"Kultur / Tier 3",
+		"Kultur / Tier 4",
+		"Kultur / Tier 5",
+		"Kultur / Tier 6"
 		
 	],
 	"columns": [
 		{
-			"title":"Description",
+			"title":"Beschreibung",
 			"type":"text"
 		},
 		{
-			"title":"Décrivez le prix de ce produit (au cours des 3 dernières années)",
+			"title":"Bitte, beschreiben Sie die Preisentwicklung des Produkts (über die letzten 3 Jahre)",
 			"type":"choice",
 			"choices": [
-				"Stable",
-				"Croissant",
-				"Décroissant",
-				"Imprévisible",
-				"Suffisamment élevé",
-				"Trop bas"
+				"Stabil",
+				"Steigend",
+				"Sinkend",
+				"Unberechenbar",
+				"Ausreichend hoch",
+				"Zu niedrig"
 			]
 		},
 		{
-			"title":"Autre",
+			"title":"Anderes",
 			"type":"text"
 		}
 	],
