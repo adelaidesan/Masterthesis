@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Comment est-ce que le revenu agricole de l'exploitation a évolué au cours des 5 dernières années?",
+	"title":"Wie hat sich das landwirtschaftliche Einkommen Ihres Betriebs in den letzten 5 Jahren entwickelt?",
 	"choices": [
-		"Déficit croissant",
-		"Déficit stable",
-		"Pas de déficit et pas de profit",
-		"Profit stable",
-		"Profit croissant"
+		"Zunahme des Defizits",
+		"Stabiles Defizit",
+		"Kein Defizit und kein Profit",
+		"Stabiler Profit",
+		"Zunahme des Profits"
 	],
 	"mandatory":true
 }

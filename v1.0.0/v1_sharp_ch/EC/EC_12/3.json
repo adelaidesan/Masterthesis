@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Retirez-vous une satisfaction suffisante de vos activités externes à l'exploitation agricole?",
+	"title":"Wie zufrieden sind Sie mit den Einkünften aus Ihren außerbetrieblichen Aktivitäten?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßigt",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":true
 }

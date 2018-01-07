@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce qu'une personne de votre ménage (autre que vous même) a une activité génératrice de revenus externe à l'exploitation agricole?",
+	"title":"Hat jemand in Ihrem Haushalt (außer Sie selbst) noch ein Einkommen außerhalb des Betriebs?",
 	"choices":
 		[
-			"Oui, toute l'année",
-			"Oui, saisonnièrement",
-			"Oui, occasionnellement",
-			"Non"
+			"Ja, das ganze Jahr",
+			"Ja, saisonal",
+			"Ja, manchmal",
+			"Nein"
 		],
 	"mandatory":true
 }

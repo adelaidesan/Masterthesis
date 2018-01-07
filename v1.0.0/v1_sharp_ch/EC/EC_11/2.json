@@ -1,24 +1,23 @@
 {
 	"question-type":"table",
-	"title":"Quelles sont les trois principales sources de revenus de votre ménage?",
+	"title":"Was sind die drei Haupteinnahmequellen Ihres Betriebs?",
 	"lines" : [
-		"1ère source",
-		"2ème source",
-		"3ème source"
+		"Erste Quelle",
+		"Zweite Quelle",
+		"Dritte Quelle"
 	],
 	"columns": [
 		{
-			"title":"Importance",
+			"title":"Wichtigkeit",
 			"type":"choice",
 			"choices": [
-				"Production agricoles",
-				"Agrotourisme",
-				"Location de terres",
-				"Travaux agricoles pour tiers",
-				"Agrotourisme",
-				"Activités non-agricoles",
-				"Revenu externe à l'exploitation",
-				"Autre (excepté les paiements directs)"
+				"Landwirtschaftliche Produktion",
+				"Vermietung von Grundstücken",
+				"Landwirtschaftliche Arbeit für Dritte",
+				"Agrotourismus",
+				"Nicht landwirtschaftliche Tätigkeiten",
+				"Einnahmen außerhalb des Betriebs",
+				"Anderes (außer staatliche Direktzahlungen)"
 			]
 		}
 

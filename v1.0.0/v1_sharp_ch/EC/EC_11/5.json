@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Pensez-vous que votre exploitation pourrait subsister sans le soutien financier gouvernemental?",
+	"title":"Denken Sie, dass Ihr Betrieb ohne staatliche Finanzierungshilfen überleben könnte?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }
