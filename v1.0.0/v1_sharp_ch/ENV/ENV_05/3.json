@@ -1,14 +1,14 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Selon vous, en moyenne, quelle est la richesse de votre sol en matière organique?",
+	"title":"Nach Ihnen, wie reich ist Ihr Boden an organischem Material (im Durchschnitt)?",
 	"choices":
 		[
-			"Aucune",
-			"Faible",
-			"Moyenne",
-			"Assez riche",
-			"Elevée",
-			"Je ne sais pas"
+			"Überhaupt nicht",
+			"Sehr wenig",
+			"Mittelmäßig",
+			"Ziemlich reich",
+			"Sehr",
+			"Ich weiß es nicht"
 		],
 	"mandatory":true
 }

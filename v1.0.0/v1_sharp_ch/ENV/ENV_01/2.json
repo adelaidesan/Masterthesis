@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Votre accès à l'eau est-il suffisant pour les besoins de votre système agricole?",
+	"title":"Ist Ihr Zugang zu Wasser für die Bedürfnisse Ihres Betriebssystems ausreichend?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht ",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

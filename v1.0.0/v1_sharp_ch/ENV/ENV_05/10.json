@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans votre choix des races d'animaux, prenez-vous en considération les conditions locales?",
+	"title":"Bei Ihrer Auswahl von Tierarten/Rassen, spielen die lokalen Klima- und Umweltbedingungen eine Rolle?",
 	"choices":
 		[
-			"Oui",
-			"Non",
-			"Pas applicable"
+			"Ja",
+			"Nein",
+			"Nicht anwendbar"
 		],
 	"mandatory":true
 }

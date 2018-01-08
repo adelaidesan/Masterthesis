@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les pratiques de conservation de l'eau utilisées vous permettent-elles d'économiser de l'eau dans votre système de production?",
+	"title":"Inwiefern können Sie Wasser durch die von Ihnen eingesetzten Techniken einsparen?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Mehr oder weniger viel",
+		"Viel"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

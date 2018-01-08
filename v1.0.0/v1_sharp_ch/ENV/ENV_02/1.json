@@ -1,19 +1,19 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Dans votre système agricole, utilisez-vous les techniques de conservation de l'eau suivantes?",
+	"title":"Wenden Sie in Ihrem Betrieb Techniken und Strategien an, um Wasser zu sparen?",
 	"choices": 
 		[
-			"Citernes",
-			"Irrigation - canaliser l'eau",
-			"Fosses de plantation et diguettes en pierre",
-			"Fossés de rétention d'eau, murets en pierre, bandes de végétation, lignes de contours et fossés (sillons)",
-			"Arrosage des plantes tôt le matin ou en soirée",
-			"Terrassement",
-			"Paillage",
-			"Cultures de couverture",
-			"Irrigation goutte à goutte",
-			"Fossé d'écoulement/canaux (pour drainer)",
-			"Barrage",
-			"_OTHER_INPUT::Autre (précisez)"
+			"Zisternen",
+			"Bewässerung – kanalisiertes Wasser",
+			"Pflanzgruben und Steinbunde",
+			"Wasserrückhaltegräben, Steinmauern, Vegetationsstreifen, Bewässerung folgt Höhenlinien, Gräben (Furchen)",
+			"Früh morgens oder spät abends bewässern",
+			"Terrassenbewässerung",
+			"Mulchen",
+			"Zwischenfrüchte",
+			"Tröpfchenbewässerung",
+			"Abgestufte Gräben/Wasserwege (zum Ablassen)",
+			"Dämme",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 		]
 }

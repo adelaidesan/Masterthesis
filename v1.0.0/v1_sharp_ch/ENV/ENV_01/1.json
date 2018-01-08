@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Pour chaque source d'eau que vous pouvez utiliser pour l'irrigation ou l'areuvement du bétail",
+	"title":"Für jede Wasserquelle, die Sie für die Bewässerung oder Viehhaltung verwenden können, geben Sie bitte an:",
 	"lines":[
 		"1",
 		"2",
@@ -10,30 +10,30 @@
 	],
 	"columns": [
 		{
-			"title":"Type de source d'eau utilisée",
+			"title":"Art der Wasserquelle",
 			"type":"choice",
 			"choices": [
-				"Puit",
-				"Barrage (structure pour la retenue d'eau)",
-				"Rivière/cours d'eau/lac",
-				"Forage",
-				"Bassin de récupération d'eau de pluie",
-				"Réseau d'irrigation",
-				"Autre (mais excepté la pluie)"
+				"Brunnen",
+				"Damm (Struktur zum Wasserzurückhalten)",
+				"Fluss/Bach/See",
+				"Bohrloch",
+				"Regenwasserzurückhaltung",
+				"Bewässerungssystem",
+				"Anderes (außer Regen)"
 
 			]
 		},
 		{
-			"title":"Avez-vous vu des changements de quantité d'eau avec ces sources au cours des 5 dernières années?",
+			"title":"Haben Sie eine Veränderung in der Wassermenge während der letzten 5 Jahren wahrgenommen?",
 			"type":"choice",
 			"choices": [
-				"Changement négatif",
-				"Pas de changement",
-				"Amélioration"
+				"Negative Veränderung",
+				"Keine Veränderung",
+				"Verbesserung"
 			]
 		},
 		{
-			"title":"Si oui, décrivez",
+			"title":"Wenn ja, bitte beschreiben:",
 			"type":"text"
 		}
 	],

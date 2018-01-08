@@ -1,13 +1,13 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure l'état de fertilité de votre sol affecte-t-il votre système de production?",
+	"title":"Wie sehr beeinflusst die Bodenfruchtbarkeit Ihr Betriebssystem?",
 	"choices":
 		[
-			"Pas du tout",
-			"Un peu",
-			"Moyennement",
-			"Beaucoup",
-			"Très"
+			"Überhaupt nicht",
+			"Ein Wenig",
+			"Mittelmäßig",
+			"Ziemlich",
+			"Sehr"
 		],
 	"mandatory":true
 }

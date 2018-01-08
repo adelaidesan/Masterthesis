@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"L'eau à laquelle vous avez accès est-elle propre à l'utilisation agricole?",
+	"title":"Ist das Wasser, zudem sie Zugang haben geeignet für die landwirtschaftliche Nutzung?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ausreichend",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

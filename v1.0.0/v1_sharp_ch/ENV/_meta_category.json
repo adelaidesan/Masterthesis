@@ -1,7 +1,7 @@
 {
 	"group_id":"ENV",
 	"color":"green",
-	"title":"Environnement",
+	"title":"Umwelt",
 	"order": [
 		"ENV_01",
 		"ENV_02",

@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que vous faites un bilan de votre matière organique?",
+	"title":"Machen Sie eine Bilanz des organischen Materials Ihres Bodens?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

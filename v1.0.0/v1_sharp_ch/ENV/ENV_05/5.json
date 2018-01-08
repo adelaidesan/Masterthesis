@@ -1,13 +1,13 @@
 {
-	"question-type":"multiple_one_solution",
-	"title":"En général, votre sol est-il fertile?",
+	"questioni-type":"multiple_one_solution",
+	"title":"Im Allgemeinen, ist Ihr Boden fruchtbar?",
 	"choices":
 		[
-			"Non",
-			"Un peu",
-			"Moyennement",
-			"Beaucoup",
-			"Complètement"
+			"Nein",
+			"Ein wenig",
+			"Mittelmäßig",
+			"Sehr",
+			"Vollständig"
 		],
 	"mandatory":true
 	

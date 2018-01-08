@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous observé une tendance à la dégradation des sols ces 5 dernières années?",
+	"title":"* Haben Sie in den letzten 5 Jahren einen Trend zur Bodendegradation in Ihrem Betrieb beobachtet?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

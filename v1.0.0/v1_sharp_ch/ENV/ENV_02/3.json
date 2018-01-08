@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance de la conservation de l'eau pour votre système de production",
+	"title":"Wie wichtig ist es für Ihren Betrieb Wasser einzusparen?",
 	"choices":[
-		"Aucune",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

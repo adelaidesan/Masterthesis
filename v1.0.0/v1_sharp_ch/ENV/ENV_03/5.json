@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance de la qualité de l'eau pour votre système de production?",
+	"title":"Wie wichtig ist die Wasserqualität für Ihren Betrieb?",
 	"choices":[
-		"Aucune",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

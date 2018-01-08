@@ -2,25 +2,25 @@
 	"question-type":"table",
 	"title":"Type",
 	"lines": [
-		"Surface agricole utile (hectares)",
-		"Surface d'estivage (hectares)",
-		"Autres surfaces ne rentrant ni dans la SAU ni dans les surfaces d'estivage (hectares)"
+		"Landwirtschaftlich genutztes Land (Hektar)",
+		"Weideland (Hektar)",
+		"Anderes Land, das nicht zu landwirtschaftlichen Land oder Weideland gehört (Hektar)"
 	],
 	"columns": [
 		{
-			"title":"Parcelle(s) en propriété (ha.)",
+			"title":"Grundstücke in eigenem Besitz (ha)",
 			"type":"integer"
 		}, 
 		{
-			"title":"Parcelle(s) prise(s) en location fixe avec bail (ha.)",
+			"title":"Grundstücke unter festem schriftlichen Pachtvertrag (ha)",
 			"type":"integer"
 		},
 		{
-			"title":"Parcelle(s) prise(s) en location verbale sans bail (ha.) ",
+			"title":"Grundstücke unter mündlichem Pachtvertrag (ha) ",
 			"type":"integer"
 		},
 		{
-			"title":"Autre (ha.) ",
+			"title":"Anderes (ha) ",
 			"type":"integer"
 		}
 	]
