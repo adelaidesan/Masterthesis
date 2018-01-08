@@ -1,35 +1,35 @@
 {
 	"question-type":"table",
-	"title":"Quelles sources d'énergie sont utilisées dans votre système agricole?",
+	"title":"Welche Energiequellen nutzen Sie für Ihrem Betrieb?",
 	"lines":[
-		"Solaire",
-		"Vent",
-		"Eau",
-		"Bois de chauffage",
-		"Charbon",
-		"Déchets ménagers",
-		"Résidus agricoles",
-		"Résidus de bois",
-		"Fumier",
-		"Essence",
-		"Paraffine (pétrole)",
+		"Solar",
+		"Wind",
+		"Wasser",
+		"Brennholz",
+		"Kohle",
+		"Hausmüll",
+		"Landwirtschaftliche Rückstände",
+		"Holzreste",
+		"Dung",
+		"Benzin",
+		"Paraffin (Erdöl)",
 		"Diesel",
-		"Gaz naturel (sous-terrain)",
-		"Biogaz (à partir de composte ou fumier)",
-		"Electricité (source publique)",
+		"Erdgas",
+		"Biogas (von Mist/Kompost/Mais)",
+		"Elektrizität (Öffentliche Quelle)",
 		"_OTHER_INPUT::Autre (précisez)"
 	],
 	"columns" : [
 		{
-			"title":"Chauffage",
+			"title":"Heizen",
 			"type":"toggle"
 		},
 		{
-			"title":"Eclairage",
+			"title":"Beleuchtung",
 			"type":"toggle"
 		},
 		{
-			"title":"Machines",
+			"title":"Maschinen",
 			"type":"toggle"
 		}
 	],

@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"A quel point l’énergie que vous utilisez dépend d'acteurs externes?",
+	"title":"Wie viel Energie wird von externen Anbietern zur Verfügung gestellt?",
 	"choices": [
-			"Tout ou la plupart de l'énergie dépend d'acteurs externes (0-20% viennent de votre propre exploitation)",
-			"Environ la moitié de l'énergie dépend d'acteurs externes (21-50% viennent de votre propre exploitation)",
-			"Plus de la moitié de l'énergie vient de votre propre exploitation (51-80% viennent de votre propre exploitation)",
-			"Tout ou la plupart (81-100%) de l'énergie vient de votre propre exploitation"
+			"Die gesamte oder die meiste Energie kommt von externen Akteuren (0-20% stammen aus dem eigenen Betrieb)",
+			"Ungefähr die Hälfte der Energie (21-50% aus dem eigenen Betrieb)",
+			"Mehr als die Hälfte der Energie wird auf dem Betrieb produziert (50-80%)",
+			"Alles/fast alles der Energie (81-100%) wird auf dem Betrieb produziert"
 	],
 	"mandatory":true
 }

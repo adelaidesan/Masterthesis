@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Votre terrain est-il bordé par des terres sauvages / zones protégées / non aménagées?",
+	"title":"Grenzt Ihr Land an natürliches / geschütztes / nicht genutztes Land?",
 	"choices":[
-		"15% ou +",
-		"7% ou + mais moins de 15%",
-		"Moins de 7%",
-		"Pas du tout"
+		"15% oder mehr",
+		"7% oder mehr, aber weniger als 15%",
+		"Weniger als 7%",
+		"Überhaupt nicht"
 	],
 	"mandatory":"true"
 }

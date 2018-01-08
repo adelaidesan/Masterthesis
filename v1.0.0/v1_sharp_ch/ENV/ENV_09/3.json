@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Les sources d'énergie utilisées sont-elles suffisantes pour répondre aux besoins de votre système agricole?",
+	"title":"Inwieweit erfüllen die benutzten Energieformen die Anforderungen Ihres Betriebs?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

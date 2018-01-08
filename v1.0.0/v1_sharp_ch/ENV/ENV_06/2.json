@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les pratiques de gestion (du sol) utilisées améliorent-elles la qualité de vos sols?",
+	"title":"Inwieweit verbessern die angewandten Methoden die Qualität Ihres Bodens?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

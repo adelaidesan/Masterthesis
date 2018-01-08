@@ -1,10 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Intégrez-vous des légumineuses dans votre plan de rotation?",
+	"title":"Integrieren Sie Leguminosen in Ihre Fruchtfolge?",
 	"choices":[
-		"Oui chaque année",
-		"Oui mais pas chaque année",
-		"Jamais"
+		"Ja jedes Jahr",
+		"Ja aber nicht jedes Jahr",
+		"Nie",
+		"nicht anwendbar"
 	],
 	"mandatory":"true"
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce que la présence de zones tampons réduit les pertes de récoltes dues aux déprédateurs?",
+	"title":"Verringert das Vorhandensein von Pufferzonen Ihre Ernteverluste durch Schädlinge?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

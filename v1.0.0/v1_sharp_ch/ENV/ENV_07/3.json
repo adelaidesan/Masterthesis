@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"De manière générale, dans quelle mesure vos cultures de légumineuses vous satisfont-elles (production, sol,...)?",
+	"title":"Inwieweit sind Sie mit den gepflanzten Leguminosen zufrieden (Produktion, Boden, etc.)?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ausreichend",
+		"Sehr"
 	],
 	"mandatory":"true"
 }
