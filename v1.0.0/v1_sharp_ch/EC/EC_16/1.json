@@ -1,77 +1,77 @@
 {
 	"question-type":"table",
-	"title":"Répondez pour chaque culture/animal séparément",
+	"title":"Bitte antworten Sie einzeln für jede Pflanze/Tier",
 	"lines" : [
-		"Production 1",
-		"Production 2",
-		"Production 3",
-		"Production 4",
-		"Production 5",
-		"Production 6"
+		"Produkt 1",
+		"Produkt 2",
+		"Produkt 3",
+		"Produkt 4",
+		"Produkt 5",
+		"Produkt 6"
 		
 	],
 	"columns": [
 		{
-			"title":"Description",
+			"title":"Beschreibung",
 			"type":"text"
 		},
 		{
-			"title":"Comment commercialisez-vous vos produits les plus rentables?",
+			"title":"Wie vermarkten Sie Ihre profitabelsten Produkte?",
 			"type":"choice",
 			"choices": [
-				"Agro-industrie",
-				"Coopérative agricole",
-				"Vente aux détaillants sans passer par un intermédiaire",
-				"Société coopérative locale",
-				"Vente directe"
+				"Agrarindustrie",
+				"Landwirtschaftliche Genossenschaft",
+				"Verkauf an Einzelhändler ohne Vermittlung durch Zwischenhändler",
+				"Lokale Genossenschaft",
+				"Direktvermarktung"
 			]
 		},
 		{
-			"title":"Su vous faites de l'agriculture contractuelle, avez-vous un mot à dire lors des négociations du contenu du contrat?",
+			"title":"Falls Sie Vertragslandwirtschaft betreiben, haben Sie bei den Verhandlungen über den Inhalt des Vertrags ein Mitspracherecht?",
 			"type":"binary"
 		},
 		{
-			"title":"Vous considérez-vous comme un acteur de la chaîne agroalimentaire ou comme entité productive individuelle?",
+			"title":"Betrachten Sie sich selbst als Akteur in der Lebensmittelkette oder als individuelle Produktionseinheit?",
 			"type":"choice",
 			"choices": [
-				"Acteur de la chaîne agroalimentaire",
-				"Entité productive individuelle"
+				"Akteur einer Lebensmittelkette",
+				"Individuelle Produktionseinheit"
 			]
 		},
 				{
-			"title":"Qui détermine principalement ce que vous produisez?",
+			"title":"Wer entscheidet hauptsächlich was Sie produzieren?",
 			"type":"choice",
 			"choices": [
-				"Vous",
-				"Vous et d'autres agriculteurs",
-				"Acteurs qui ne sont pas agriculteurs"
+				"Sie",
+				"Sie und andere Landwirte",
+				"Akteure, die keine Landwirte sind"
 			]
 		},
 		{
-			"title":"Participez-vous dans la détermination du cahier des charges local?",
+			"title":"Beteiligen Sie sich an der Festlegung der örtlichen Betriebsvorschriften?",
 			"type":"choice",
 			"choices": [
-				"Un peu",
-				"Beaucoup",
-				"Pas du tout"
+				"Ein bisschen",
+				"Viel",
+				"Überhaupt nicht"
 			]
 		},
 		{
-			"title":"Participez-vous dans la détermination du cahier des charges régional?",
+			"title":"Beteiligen Sie sich an der Festlegung der regionalen Betriebsvorschriften?",
 			"type":"choice",
 			"choices": [
-				"Un peu",
-				"Beaucoup",
-				"Pas du tout"
+				"Ein bisschen",
+				"Viel",
+				"Überhaupt nicht"
 			]
 		},
 		{
-			"title":"Participez-vous dans la détermination du cahier des charges fédéral?",
+			"title":"Beteiligen Sie sich an der Festlegung der nationalen Bestimmungen?",
 			"type":"choice",
 			"choices": [
-				"Un peu",
-				"Beaucoup",
-				"Pas du tout"
+				"Ein bisschen",
+				"Viel",
+				"Überhaupt nicht"
 			]
 		}
 		

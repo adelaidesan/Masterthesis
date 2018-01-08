@@ -1,13 +1,13 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce que votre façon d'épargner vous permet de répondre aux besoins de votre système de production?",
+	"title":"Können Sie genug ansparen, um die Bedürfnisse Ihres Betriebs zu erfüllen?",
 	"choices":
 		[
-			"Pas du tout",
-			"Un peu",
-			"Moyennement",
-			"Beaucoup",
-			"Complètement"
+			"Überhaupt nicht",
+			"Ein wenig",
+			"Mittelmäßig",
+			"Beinahe völlig",
+			"Vollständig"
 		],
 	"mandatory":true
 }

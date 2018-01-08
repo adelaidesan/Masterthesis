@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Les prix (concernant la vente) sont-ils suffisamment élevés et constants pour votre exploitation?",
+	"title":"Sind die Preise (zum Verkauf) hoch genug und konsistent für Ihr Betriebssystem?",
 	"choices" : [
-		"Oui",
-		"Pas suffisamment",
-		"Non"
+		"Ja",
+		"Nicht genug",
+		"Nein"
 	],
 	"mandatory":true
 }

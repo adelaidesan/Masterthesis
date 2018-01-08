@@ -1,13 +1,13 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les fluctuations des prix influencent-elles votre exploitation agricole?",
+	"title":"Wie sehr beeinflussen Preisschwankungen Ihr Betriebssystem?",
 	"choices":
 		[
-			"Pas du tout",
-			"Un peu",
-			"Moyennement",
-			"Beaucoup",
-			"Complètement"
+			"Überhaupt nicht",
+			"Ein wenig",
+			"Mittelmäßig",
+			"Beinahe völlig",
+			"Vollständig"
 		],
 	"mandatory":true
 }

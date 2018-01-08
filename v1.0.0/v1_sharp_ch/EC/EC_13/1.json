@@ -1,25 +1,25 @@
 {
 	"question-type":"table",
-	"title":"Etes-vous à moins de 50 km du lieu d'approvisionnement de la plupart de vos intrants?",
+	"title":"Ist Ihr Betrieb weniger als 50 km von der Hauptvertriebsquelle Ihrer benötigten Inputs entfernt?",
 	"lines": [
-		"Semences agricoles/jeunes plants",
-		"Mâle améliorateur/bétail",
-		"Engrais",
-		"Equipement",
-		"Pesticides",
-		"Connaissances/servies de vulgarisation",
-		"Main d'oeuvre (par ex: personnes employées pour le travail manuel dans les champs)",
-		"Capital (par ex. banque)",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Saatgut/ Setzlinge",
+		"Nutztiere/Besamer",
+		"Dünger",
+		"Equipment",
+		"Pestizide",
+		"Wissen/landwirtschaftliche Berater",
+		"Arbeitskraft (Bsp. Angestellte für manuelle Arbeit)",
+		"Kapital (e.g. Bank)",
+		"_OTHER_INPUT::Anderes (Bitte erläutern:)"
 	],
 	"columns": [
 		{
 			"title":"",
 			"type":"choice",
 			"choices": [
-				"Oui",
-				"Non",
-				"Pas applicable"
+				"Ja",
+				"Nein",
+				"Nicht anwendbar"
 			]
 		}
 	

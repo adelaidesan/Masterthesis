@@ -1,13 +1,13 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance des interactions avec les autres acteurs de la chaîne agroalimentaire pour votre système agricole?",
+	"title":"Wie wichtig sind Kontakte zu den anderen Interessenvertretern der Wertschöpfungskette für Ihren Betrieb?",
 	"choices":
 		[
-			"Pas du tout",
-			"Un peu",
-			"Moyennement",
-			"Beaucoup",
-			"Très"
+			"Überhaupt nicht ",
+			"Ein wenig",
+			"Mittelmäßig",
+			"Ziemlich",
+			"Sehr"
 		],
 	"mandatory":true
 }

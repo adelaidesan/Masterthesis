@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous plus d'économies qu'il y a cinq ans?",
+	"title":"Haben Sie mehr Ersparnisse als vor 5 Jahren?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance d'avoir accès à des structures d'épargnes pour votre système de production?",
+	"title":"Wie wichtig ist die Möglichkeit Geld anzusparen für Ihren Betrieb?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":true
 }

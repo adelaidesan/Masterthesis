@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Sans faire d'emprunts d'argent, est-ce que vous avez actuellement la capacité financière de maintenir un bon état de fonctionnement de votre parc machines/installations fixes?",
+	"title":"Haben Sie zurzeit, ohne Geld zu leihen die finanzielle Kapazität um einen guten Betriebszustand Ihrer Maschinenanlage / Festinstallation zu gewährleisten?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

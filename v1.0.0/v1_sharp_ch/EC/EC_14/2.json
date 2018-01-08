@@ -1,14 +1,14 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Comment économisez-vous de l'argent?",
+	"title":"Wie sparen Sie Geld?",
 	"choices": 
 		[
-			"Banque",
-			"Achat de biens d'investissement (terrain, immobilier, etc.)",
-			"Argent à la maison",
-			"Investissements/placements financiers",
-			"Achat de bétail",
-			"Structure ou groupe d'épargne",
-			"_OTHER_INPUT::Autre (précisez)"
+			"Bank",
+			"Kauf von Investitionsgütern (Land, Immobilien, etc.)",
+			"Geld zu Hause",
+			"Investitionen/Finanzanlagen",
+			"Kauf von Nutztieren",
+			"Spargruppe (Gruppe von Landwirten, die zusammen Geld sparen (ohne Bank)",
+			"_OTHER_INPUT::Anderes (Bitte erläutern:)"
 		]
 }
