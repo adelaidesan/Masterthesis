@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce que le chef de l'exploitation a choisi sa profession librement ou est-ce qu'il a repris la ferme sous pression de la famille?",
+	"title":"Hat der Vorstand des Betriebes sich seinen Beruf frei aussuchen können oder gab es Druck durch die Familie?",
 	"choices":
 		[
-			"Oui, il a pu choisir librement",
-			"Un mix des deux",
-			"Il n'a pas pu choisir mais il est heureux/satisfait de sa profession",
-			"Il n'a pas pu choisir, il a été forcé de faire une profession qu'il n'apprécie pas"
+			"Ja er/sie konnte sich frei entscheiden",
+			"Ein Mix aus beidem ",
+			"Er/Sie konnte sich nicht frei entscheiden, aber ist glücklich mit dem Beruf.",
+			"Nein, er/sie konnte sich nicht frei entscheiden, sondern wurde in einen Beruf gezwungen, den er/sie nicht gerne macht."
 		],
 	"mandatory":"true"
 }

@@ -1,41 +1,41 @@
 {
 	"question-type":"table",
-	"title":"Question / personne",
+	"title":"Frage / Person",
 	"lines": [
-		"Hommes (16-65)",
-		"Femmes (16-65)",
-		"Garçons (0-15)",
-		"Filles (0-15)",
-		"Femmes (66+)",
-		"Hommes (66+)"
+		"Männer (16-65)",
+		"Frauen (16-65)",
+		"Jungen (0-15)",
+		"Mädchen (0-15)",
+		"Frauen  (66+)",
+		"Männer  (66+)"
 	],
 	"columns": [
 		{
-			"title":"Pour chaque catégorie, combien de personnes y a-t-il dans votre ménage?",
+			"title":"Für jede Kategorie, wie viele Menschen sind in Ihrem Haushalt:",
 			"type":"integer"
 		}, 
 		{
-			"title":"Qui est le chef de l'exploitation (cocher la bonne catégorie)?",
+			"title":"Wer ist der Chef Ihres Betriebes (kreuzen Sie die richtige Kategorie an)?",
 			"type":"toggle_exactly_one"
 		},
 		{
-			"title":"Combien participent aux activités liées à la production végétale?",
+			"title":"Wie viele sind im Pflanzenbau beteiligt?",
 			"type":"integer"
 		},
 		{
-			"title":"Combien participent aux activités d'élevage?",
+			"title":"Wie viele beteiligen sich an der Viehhaltung?",
 			"type":"integer"
 		},
 		{
-			"title":"Combien sont impliqués dans d'autres activités génératrices de revenus?",
+			"title":"Wie viele haben ein anderweitiges Einkommen?",
 			"type":"integer"
 		},
 		{
-			"title":"Combien ne peuvent pas travailler pour des raisons de santé?",
+			"title":"Wie viele können aus gesundheitlichen Gründen nicht arbeiten?",
 			"type":"integer"
 		},
 		{
-			"title":"Combien ont terminé leur formation agricole?",
+			"title":"Wie viele haben eine landwirtschaftliche Ausbildung / Studium absolviert?",
 			"type":"integer"
 		}
 	]

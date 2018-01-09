@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure êtes-vous satisfait du rôle que vous jouez au sein du ménage?",
+	"title":"Wie sehr sind Sie mit Ihrer Rolle im Haushalt zufrieden?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig ",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":"true"
 }

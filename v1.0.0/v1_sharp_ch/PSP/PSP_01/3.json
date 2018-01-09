@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Si vous avez des employés, est-ce qu'ils ont participé à des services de vulgarisation/formation agricole au cours des trois dernières années?",
+	"title":"Falls Sie Angestellte haben, haben diese in den letzten 3 Jahren an landwirtschaftlichen Fortbildungen, etc. teilgenommen?",
 	"choices": [
-		"Oui",
-		"Non",
-		"Non-applicable"
+		"Ja",
+		"Nein",
+		"Nicht anwendbar"
 	],
 	"mandatory":true
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Combien d'heures par semaine (sur l'exploitation et en dehors) travaille le chef de l'exploitation?",
+	"title":"Wie viele Stunden pro Woche arbeitet der Chef des Betriebs?",
 	"choices":
 		[
-			"Moins de 42h/semaine",
-			"Entre 42h et 50h/semaine",
-			"Entre 51h et 70h/semaine",
-			"Plus de 70h/semaine"
+			"Weniger als 40/Woche",
+			"Zwischen 40h und 48h/Woche",
+			"Zwischen 49h und 70h/Woche",
+			"Mehr als 70h/Woche"
 		],
 	"mandatory":"true"
 }
