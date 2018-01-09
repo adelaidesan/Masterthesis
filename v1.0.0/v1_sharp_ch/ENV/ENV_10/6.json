@@ -1,10 +1,10 @@
 {
 	"question-type":"binary_answer",
-	"title":"Si oui, est-ce que la centrale à biogaz est sur votre exploitation?",
+	"title":"Falls ja, ist es es Ihre private Biogasanlage?",
 	"choices":
 		[
-			"Oui",
-			"Non"
+			"Ja",
+			"Nein"
 		],
 	"mandatory":"true"
 }

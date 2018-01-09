@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Combinez-vous l'engrais synthétique et naturel?",
+	"title":"Kombinieren Sie natürlichen und synthetischen Dünger?",
 	"choices":[
-			"Oui",
-			"Non"
+			"Ja",
+			"Nein"
 	],
 	"mandatory":"true"
 }

@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous des pratiques de conservation de l'énergie pour réduire les coûts de l'énergie sur l'exploitation?",
+	"title":"Haben Sie Energiesparmaßnahmen, um die Energiekosten Ihres Betriebes zu reduzieren?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

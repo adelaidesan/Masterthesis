@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous utilisé des engrais de synthèse cette saison?",
+	"title":"Haben Sie diese Saison synthetische, anorganische Dünger verwendet?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

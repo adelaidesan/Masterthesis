@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Si vous utilisez de l'engrais naturel organique, vérifiez-vous (avant l'application) le sol et les plantes pour voir s'ils en ont vraiment besoin?",
+	"title":"Falls Ja, haben Sie überprüft (vor der Applikation) ob Boden und Pflanzen dies benötigen?",
 	"choices":[
-			"Oui",
-			"Non"
+			"Ja",
+			"Nein"
 	],
 	"mandatory":"true"
 }

@@ -1,18 +1,18 @@
 {
 	"question-type":"table",
-	"title":"En général, où vous approvisionnez-vous pour votre engrais?",
+	"title":"Woher beziehen Sie Ihren Dünger?",
 	"lines": [
-		"Au sein de l'exploitation",
-		"Coopérative agricole",
-		"Autre distributeur",
-		"Autre exploitation",
-		"Agent de vulgarisation",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Vom Hof",
+		"Landwirtschaftliche Genossenschaft",
+		"Anderer Verteiler",
+		"Anderer Betrieb",
+		"Landwirtschaftlicher Berater",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 

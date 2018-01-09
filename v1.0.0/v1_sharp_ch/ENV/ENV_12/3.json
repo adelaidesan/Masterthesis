@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Ces espèces d'adventices affectent-elles négativement votre système agricole?",
+	"title":"Wirken sich diese Unkrautarten negativ auf Ihr Landwirtschaftssystem aus?",
 	"choices":[
-		"Oui",
-		"Non"
+		"Ja",
+		"Neinn"
 	],
 	"mandatory":"true"
 }

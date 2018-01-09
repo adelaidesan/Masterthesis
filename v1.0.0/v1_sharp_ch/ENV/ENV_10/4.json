@@ -1,10 +1,10 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que vous stockez le fumier dans un récipient ouvert ou fermé?",
+	"title":"Lagern Sie Mist (keine Gülle) in einem offenen oder geschlossenen Behälter?",
 	"choices":
 		[
-			"Ouvert",
-			"Fermé"
+			"Offen",
+			"Geschlossen"
 		],
 	"mandatory":"true"
 }

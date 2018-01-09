@@ -1,15 +1,15 @@
 {
 	"question-type":"table",
-	"title":"Quelles méthodes utilisez-vous?",
+	"title":"Welche Methoden verwenden Sie?",
 	"lines": [
-		"Ampoules à faible consommation d'énergie",
-		"Installation de biogaz",
-		"Isolation efficace",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Energiesparlampen",
+		"Biogasanlage",
+		"Effiziente Isolierung",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen:",
 			"type":"toggle"
 		}
 

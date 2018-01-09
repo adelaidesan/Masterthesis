@@ -1,14 +1,14 @@
 {
 	"question-type":"table",
-	"title":"Si non, pourquoi?",
+	"title":"Falls Sie keinen benutzt haben, warum?",
 	"lines":[
-			"_OTHER_INPUT::Je ne veux pas (expliquez pourquoi)",
-			"Trop cher",
-			"_OTHER_INPUT::Autre (précisez)"
+			"_OTHER_INPUT::Weil ich nicht möchte (Bitter erklären warum):",
+			"Zu teuer",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 

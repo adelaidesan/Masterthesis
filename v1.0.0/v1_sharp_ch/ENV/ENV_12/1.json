@@ -1,21 +1,21 @@
 {
 	"question-type":"table",
-	"title":"Dans vos parcelles, quelles pratiques de gestion des adventices utilisez-vous?",
+	"title":"Welche Maßnahmen gegen Unkraut ergreifen Sie auf Ihren Feldern? ",
 	"lines": [
-		"Cultures de couverture",
-		"Paillis",
-		"Désherbage manuel",
-		"Désherbage mécanique",
-		"Faux semis",
-		"Herbicides",
-		"Rotation des cultures",
-		"Pâturage du bétail",
-		"Mesures préventives (ex. travail avec machines)",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Zwischenfrucht",
+		"Mulchen",
+		"Handarbeit",
+		"Mechanisch",
+		"Unkrautkur/Falsches Saatbett",
+		"Herbizide",
+		"Fruchtwechsel",
+		"Viehweiden",
+		"Präventive Maßnahmen (Bsp. Arbeiten mit sauberen Maschinen)",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 	],

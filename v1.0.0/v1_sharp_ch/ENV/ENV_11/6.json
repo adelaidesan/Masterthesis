@@ -1,22 +1,22 @@
 {
 	"question-type":"table",
-	"title":"Avez-vous utilisé des engrais naturels organiques (fumier / compost) cette saison?",
+	"title":"Haben Sie diese Saison natürlichen, organischen Dünger (Mist/Kompost) verwendet?",
 	"lines":[
-			"Compost",
-			"Purin / fumier animal",
-			"_OTHER_INPUT::Autre (précisez)"
+			"Kompost",
+			"Gülle / Mist",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Réponse",
+			"title":"Antwort",
 			"type":"binary"
 		},
 		{
-			"title":"Si non, pourquoi?",
+			"title":"Falls nein, warum?",
 			"type":"text"
 		},
 		{
-			"title":"Si oui, proviennent-ils de votre exploitation?",
+			"title":"Falls Ja, stellen Sie diesen selber her?",
 			"type":"binary"
 		}
 
