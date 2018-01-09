@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Si vous souhaitez/avez besoin d'adapter votre exploitation, est-ce que les normes/règles/politiques gouvernementales actuelles vous permettent d'entreprendre des travaux d'infrastructure nécessaires (par ex. travaux de construction)?",
+	"title":"Falls Sie Ihr Betriebssystem verändern wollen/müssen, erlauben die aktuellen Normen/Regeln/Regierungsstrategien Ihnen dies zu tun (Bsp. Notwendige Bauarbeiten)?",
 	"choices":
 		[
-			"Oui, elles sont suffisamment flexibles",
-			"Non, elles ne sont pas flexibles"
+			"Ja, sie sind flexibel genug",
+			"Nein, sie sind nicht flexibel genug"
 		],
 	"mandatory":true
 }

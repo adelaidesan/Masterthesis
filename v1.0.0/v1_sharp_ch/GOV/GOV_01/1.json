@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Avez-vous connaissance de politiques ou de programmes gouvernementaux sur le changement climatique et l'agriculture durable?",
+	"title":"Sind Sie sich der Regierungsstrategien und -programme zum Klimawandel und zur nachhaltigen Landwirtschaft, die Sie betreffen, bewusst?",
 	"choices":
 		[
-			"Oui",
-			"Non",
-			"Je ne sais pas"
+			"Ja",
+			"Nein",
+			"Ich weiß es nicht"
 		],
 	"mandatory":true
 }

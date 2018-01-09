@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que les contraintes administratives freinent la capacité d'adaptation de votre exploitation?",
+	"title":"Hindern die administrativen Einschränkungen Sie daran Ihr Landwirtschaftssystem anzupassen?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

@@ -1,7 +1,7 @@
 {
 	"group_id":"GOV",
 	"color":"orange",
-	"title":"Gouvernance",
+	"title":"Governance (Institutioneller Rahmen)",
 	"order": [
 		"GOV_01"
 	]

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Etes-vous satisfait du soutien gouvernemental reçu pour votre exploitation?",
+	"title":"Sind Sie mit der staatliche Unterstützung für Ihren Betrieb zufrieden?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true
