@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les activités pratiquées sont-elles suffisantes pour fournir un revenu qui réponde aux besoins de l’exploitation agricole?",
+	"title":"Wie gut können Sie durch die Tätigkeiten auf Ihrem Betrieb, Ihren Lebensunterhalt erwirtschaften?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ausreichend",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

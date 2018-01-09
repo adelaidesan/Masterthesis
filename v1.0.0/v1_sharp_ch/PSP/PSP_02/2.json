@@ -1,14 +1,14 @@
 {
 	"question-type":"table",
-	"title":"Quel est le type de main d'oeuvre travaillant sur votre exploitation?",
+	"title":"Wer arbeitet auf Ihrem Betrieb?",
 	"lines": [
-		"Familiale uniquement",
-		"Salariée uniquement",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Nur Familienmitglieder",
+		"Nur Mitarbeiter",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen:",
 			"type":"toggle"
 		}
 	]

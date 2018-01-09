@@ -1,18 +1,18 @@
 {
 	"question-type":"table",
-	"title":"Si oui lesquelles?",
+	"title":"Falls ja, welche?",
 	"lines":[
-		"Vigne",
-		"Pommiers",
-		"Poiriers",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Reben",
+		"Äpfel",
+		"Birenen",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns":[
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 	],
 	"mandatory":"true",
-	"placeholder":"Précisez"
+	"placeholder":"Angeben"
 }

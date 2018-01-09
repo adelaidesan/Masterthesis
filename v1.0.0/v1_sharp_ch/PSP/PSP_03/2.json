@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Activité",
+	"title":"Tätigkeiten",
 	"lines": [
 		"1",
 		"2",
@@ -9,23 +9,23 @@
 	],
 	"columns": [
 		{
-			"title":"Si oui, quelles espèces cultivez-vous? Par ex. crevette, perche, truite, etc.",
+			"title":"Falls ja, welche Arten bewirtschaften Sie? z.B. Karpfen, Tilapien, etc.",
 			"type":"text"
 		}, 
 		{
-			"title":"Pour chaque espèce mentionnée, combien de variétés élevez-vous?",
+			"title":"Für jede genannte Arte, wie viele Sorten bewirtschaften Sie?",
 			"type":"integer"
 		},
 		{
-			"title":"Pour chaque espèce mentionnée, fournissez-vous des aliments complémentaires?",
+			"title":"Für jede genannte Art, geben Sie Nahrungszusätze?",
 			"type":"toggle"
 		},
 		{
-			"title":"Si oui, lesquels?",
+			"title":"Falls ja, welche?",
 			"type":"text"
 		},
 		{
-			"title":"Si oui, dans quelles circonstances fournissez-vous des aliments complémentaires?",
+			"title":"Falls ja, unter welchen Umständen geben Sie Nahrungszusätze?",
 			"type":"text"
 		}
 	]

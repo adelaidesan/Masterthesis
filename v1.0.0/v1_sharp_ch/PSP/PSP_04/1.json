@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous des productions végétales (annuelles ou pérennes)?",
+	"title":"Betreiben Sie Pflanzenbau? (Mehrjährig oder einjährig)?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":"true"
 }

@@ -1,10 +1,10 @@
 {
 	"question-type":"binary_answer_with_comment",
-	"title":"Est-ce que vous cultivez des plantes pérennes?",
+	"title":"Bauen Sie mehrjährige Nutzpflanzen an (Dauerkulturen)?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
-	"placeholder":"Plantes pérennes",
+	"placeholder":"Mehrjährige Pflanzen",
 	"mandatory":"true"
 }

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance d'avoir un nombre diversifié de cultures pour votre système de production?",
+	"title":"Wie wichtig ist es für Sie, eine Vielzahl von Nutzpflanzen in Ihrem Produktionssystem zu haben?",
 	"choices":[
-		"Nulle",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":"true"
 }
