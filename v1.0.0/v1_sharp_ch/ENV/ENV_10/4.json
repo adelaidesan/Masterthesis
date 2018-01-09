@@ -4,7 +4,8 @@
 	"choices":
 		[
 			"Offen",
-			"Geschlossen"
+			"Geschlossen",
+			"Nicht anwendbar"
 		],
 	"mandatory":"true"
 }
