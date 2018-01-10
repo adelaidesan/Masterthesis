@@ -1,12 +1,12 @@
 
 {"question-type":"multiple_one_solution",
-	"title":"Est-ce que le nombre et la variété de votre bétail suffisent à pourvoir aux besoins de votre système de production?",
+	"title":"Inwieweit erfüllen die Anzahl und die Rassen Ihrer Tiere die Anforderungen Ihres Betriebs?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

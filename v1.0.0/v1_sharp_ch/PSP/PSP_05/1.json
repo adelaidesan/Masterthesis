@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Possédez-vous des animaux au sein de votre exploitation agricole?",
+	"title":"Halten Sie Tiere (Nutztiere) auf Ihrem Betrieb?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":"true"
 }

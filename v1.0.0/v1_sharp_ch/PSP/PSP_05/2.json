@@ -1,32 +1,27 @@
 {
 	"question-type":"table",
-	"title":"Activité",
+	"title":"Tätigkeiten:",
 	"lines": [
-		"Vache à viande",
-		"Vache laitière",
-		"Chèvre",
-		"Mouton",
-		"Cochon",
-		"Volaille (poules, dindes, etc...)",
-		"Chevaux",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Mastrinder",
+		"Milchkuh",
+		"Ziege",
+		"Schaf",
+		"Schwein",
+		"Geflügel (Hühner, Truthuhn, etc.)",
+		"Pferde",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
 	],
 	"columns": [
 		{
-			"title":"Combien d'animaux possédez-vous approximativement",
+			"title":"Wie viele Tiere haben Sie, ungefähr?",
 			"type":"integer"
 		}, 
 		{
-			"title":"Combien de variétés/races différentes possédez-vous pour chaque catégorie?",
+			"title":"In jeder Kategorie, wie viele Rassen besitzen Sie?",
 			"type":"integer"
 		},
 		{
-			"title":"Appliquez-vous les normes/réglementations SST (Systèmes de stabulation particulièrement respectueux des animaux (cochez si oui)?",
+			"title":"Richten Sie sich nach einem Förderprogramm für Tierwohl (Bsp. FAKT in BaWü), bitte angeben falls ja?",
 			"type":"binary"
 		},
-		{
-			"title":"Appliquez-vous les normes SRPA (Sorties régulières en plein air (cochez si oui)?",
-			"type":"binary"
-		}
-	]
-}
+		

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance d'avoir un ensemble de types de bétails différents pour votre système de production?",
+	"title":"Wie wichtig ist es Ihnen, verschiedene Arten von Nutztieren auf Ihrem Betrieb zu halten?",
 	"choices":[
-		"Aucune",
-		"Un peu",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"
