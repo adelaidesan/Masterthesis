@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure la combinaison des variétés locales/indigènes et nouvellement introduites que vous utilisez répond-elle aux besoins de votre système agricole?",
+	"title":"Inwiefern erfüllt das kombinierte Anbauen aus lokalen/einheimischen und neuen Sorten die Anforderungen Ihres Betriebs?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

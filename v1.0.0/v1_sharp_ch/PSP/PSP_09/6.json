@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Est-ce que certaines plantes indigènes (locales) sont moins ou plus du tout adaptées à cause du changement climatique?",
+	"title":"Sind einige einheimische (lokale) Pflanzen durch Klimaänderungen ungeeignet geworden?",
 	"choices":
 		[
-			"Oui",
-			"Non",
-			"Je ne sais pas"
+			"Ja",
+			"Nein",
+			"Ich weiß es nicht"
 		],
 	"mandatory":true
 }

@@ -1,12 +1,12 @@
 
 {"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure cette combinaison de semences de bétail vous permet-elle de satisfaire les besoins de votre système de production?",
+	"title":"Inwiefern sind Sie mit den vorhandenen Züchtern für Ihr Vieh zufrieden?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

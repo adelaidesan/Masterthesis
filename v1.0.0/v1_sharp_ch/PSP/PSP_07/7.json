@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"La combinaison entre les compléments affouragés aux animaux et leur accès aux pâturages est-elle suffisante pour répondre à leurs besoins?",
+	"title":"Inwieweit erfüllt die Kombination von Ergänzungsfutter und Hauptfutter die Ansprüche Ihrer Tiere?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

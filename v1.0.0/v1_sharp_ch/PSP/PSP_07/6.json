@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que vous stockez des aliments pour animaux au cas où il y aurait une pénurie?",
+	"title":"Lagern Sie Futter für den Fall eines Engpasses?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":"true"
 }

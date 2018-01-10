@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Certaines de ces races ou variétés nouvellement introduites se sont-elles bien adaptées aux conditions environnementales de l'exploitation?",
+	"title":"Haben sich diese neu eingeführten Rassen an die Umweltbedingungen des Betriebs angepasst?",
 	"choices":
 		[
-			"Oui",
-			"Non",
-			"Je ne sais pas"
+			"Ja",
+			"Nein",
+			"Ich weiß es nicht"
 		],
 	"mandatory":true
 }
