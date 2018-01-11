@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Pratiquez-vous l'agroforesterie?",
+	"title":"Betreiben Sie Agroforstwirtschaft?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":"true"
 }

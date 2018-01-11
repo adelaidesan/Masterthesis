@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Au cours des 10 dernières années, avez-vous observé des changements concernant la météo?",
+	"title":"Haben Sie in den letzten 10 Jahren irgendwelche Veränderungen bezüglich des Wetters bemerkt?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

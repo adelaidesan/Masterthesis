@@ -1,21 +1,21 @@
 {
 	"question-type":"table",
-	"title":"Si oui, comment obtenez-vous généralement ces informations?",
+	"title":"Woher erhalten Sie am häufigsten relevante Informationen?",
 	"lines": 
 		[
 			"Radio",
-			"Journal",
-			"Revue spécialisée/professionnelle",
-			"Télévision",
-			"Agent de vulgarisation",
-			"Groupe/organisation/association agricole",
-			"Autres agriculteurs",
+			"Zeitung",
+			"Professionelles Journal",
+			"Fernsehen",
+			"Landwirtschaftsberater",
+			"Landwirtschaftliche Gruppe/Organisation/Verband",
+			"Andere Landwirte",
 			"Internet",
-			"_OTHER_INPUT::Autres (précisez)"
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren:)"
 		],
 		"columns": [
 			{
-				"title":"cochez",
+				"title":"Bitte auswählen:",
 				"type":"toggle"
 			}
 

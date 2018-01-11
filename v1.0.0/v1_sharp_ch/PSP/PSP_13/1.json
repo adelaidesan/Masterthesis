@@ -1,26 +1,25 @@
 {
 	"question-type":"table",
-	"title":"Activité",
+	"title":"Typ",
 	"lines": [
-		"Lieux de cultes",
-		"Centre Communautaire (centre culturel etc.)",
-		"Pompier",
-		"Bureau de poste",
-		"Ecole",
-		"Centre médical",
-		"Clinique vétérinaire",
-		"Magasin d'intrants",
-		"Banque de céréales",
-		"Installations de stockage",
+		"Religiöse Einrichtung ",
+		"Gemeindezentrum (Kulturzentrum, etc.)",
+		"Feuerwehr",
+		"Post",
+		"Schule",
+		"Gesundheitszentrum",
+		"Tierarztklinik ",
+		"Inputladen (z.B. Materialien, etc.)",
+		"Lagermöglichkeiten",
 		"_OTHER_INPUT::Autre (précisez)"
 	],
 	"columns": [
 		{
-			"title":"Avez-vous les infrastructures suivantes dans un rayon de 10 km autour de votre exploitation?",
+			"title":"Haben Sie eine der folgenden Infrastrukturen innerhalb von 10 km um Ihren Betrieb?",
 			"type":"toggle"
 		}, 
 		{
-			"title":"Utilisez-vous ces infrastructures?",
+			"title":"Verwenden Sie einige dieser Infrastrukturen?",
 			"type":"binary"
 		}
 		

@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous déjà entendu parler de l'agriculture de conservation?",
+	"title":"Kennen Sie den Begriff „konservierende Landwirtschaft“?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

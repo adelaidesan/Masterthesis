@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous planté plusieurs variétés différentes d'une même espèce d'arbre?",
+	"title":"Haben Sie verschiedene Sorten der gleichen Art gepflanzt?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

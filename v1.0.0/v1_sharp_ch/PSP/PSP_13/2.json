@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure ces infrastructures remplissent-elles leur fonction?",
+	"title":"Inwieweit erfüllt die Infrastruktur Ihre Funktion?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

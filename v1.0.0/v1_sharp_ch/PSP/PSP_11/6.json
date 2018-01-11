@@ -1,18 +1,18 @@
 {
 	"question-type":"table",
-	"title":"Comment (cochez)?",
+	"title":"Wie sind Sie damit umgegangen?",
 	"lines": 
 	[
-		"Capacités/stratégies d'adaptation internes",
-		"Support externe"
+		"Interne Strategie / Kapazitäten",
+		"Externe Hilfe"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen:",
 			"type":"toggle"
 		},
 		{
-			"title":"Précisez",
+			"title":"Bitte genauer ausführen:",
 			"type":"text"
 		}
 	]

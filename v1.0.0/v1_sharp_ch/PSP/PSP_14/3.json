@@ -1,20 +1,20 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Si oui, quels changements avez-vous observé?",
+	"title":"Falls ja, was für Veränderungen haben Sie bemerkt?",
 	"choices": 
 		[
-			"Augmentation des précipitations",
-			"Diminution des précipitations",
-			"Plus grande variabilité des précipitations",
-			"Pluies tardives",
-			"Augmentation de la température",
-			"Baisse des températures",
-			"Inondations",
-			"Retard à l'arrivée du printemps",
-			"Arrivée du printemps précoce",
-			"Infestation inhabituelle d'animaux nuisibles",
-			"Sécheresse inhabituelle",
-			"_OTHER_INPUT::Autre (précisez)"
+			"Vermehrter Regenfall",
+			"Weniger Regenfall",
+			"Mehr Variabilität des Niederschlags",
+			"Späterer Regenfall",
+			"Höhere Temperaturen",
+			"Geringere Temperaturen",
+			"Überschwemmungen",
+			"Späterer Frühlingsbeginn ",
+			"Früherer Frühlingsbeginn",
+			"Ungewöhnlicher Schädlingsbefall",
+			"Ungewöhnliche Trockenheit",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
 
 		]
 }

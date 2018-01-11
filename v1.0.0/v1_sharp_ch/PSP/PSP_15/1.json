@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous des pratiques de contrôle des maladies pour vos animaux?",
+	"title":"Verwenden Sie Methoden um Krankheiten bei Ihren Tieren einzudämmen?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

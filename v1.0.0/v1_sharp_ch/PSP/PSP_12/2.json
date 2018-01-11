@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"La tenue de vos registres est-elle adaptée pour comprendre et observer les tendances au fil du temps?",
+	"title":"Ist Ihre Bestandsaufnahme geeignet dafür, Trends über den Lauf der Zeit zu beobachten und zu verstehen?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

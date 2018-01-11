@@ -1,28 +1,28 @@
 {
 	"question-type":"table",
-	"title":"Tenez-vous des registres pour ce qui suit?",
+	"title":"Führen Sie Bestand über das Folgende:",
 	"lines": [
-		"Rendement agricole?",
-		"Régime des pluies?",
-		"Espèces envahissantes?",
-		"Désherbage (lutte contre les mauvaises herbes)?",
-		"Analyse de sol?",
-		"Eau utilisée pour l'irrigation?",
-		"Engrais?",
-		"Produits phytosanitaires?",
-		"Carburants?",
-		"Recensement des animaux?",
-		"_OTHER_INPUT::Autres (précisez)"
+		"Landwirtschaftliche Erträge?",
+		"Niederschlagsmuster?",
+		"Invasive Arten??",
+		"Unkrautbekämpfung?",
+		"Bodenanalysen?",
+		"Wassernutzung für Bewässerung?",
+		"Dünger?",
+		"Produkte für die Pflanzengesundheit?",
+		"Treibstoff?",
+		"Anzahl Tiere??",
+		"_OTHER_INPUT::Anderes (bitte spezifizieren):"
 
 	],
 	"columns": [
 		{
-			"title":"Réponse",
+			"title":"Antwort",
 			"type":"choice",
 			"choices": [
-				"Oui",
-				"Non",
-				"Pas applicable"
+				"Ja",
+				"Nein",
+				"Nicht anwendbar"
 			]
 		}
 	]

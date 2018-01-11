@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Au cours des 10 dernières années, avez-vous perdu une part importante de votre bétail?",
+	"title":"Haben Sie in den letzten 10 Jahren einen großen Anteil ihres Viehbestands verloren?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

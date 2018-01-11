@@ -1,17 +1,17 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Comment (cochez)?",
+	"title":"Wovon (Bitte auswählen)?",
 	"choices": 
 		[
-			"Prédateurs/Animaux nuisibles",
-			"Maladies (bactéries, virus, champignons, etc.)",
-			"Sécheresse",
-			"Gel",
-			"Inondations",
-			"Forte pluie",
-			"Vent violent",
-			"Grêle",
-			"Basse qualité des semences",
-			"_OTHER_INPUT::Autre précisez)"	
+			"Schädlinge",
+			"Krankheiten (Bakterien, Viren, Pilze, etc.)",
+			"Dürre",
+			"Frost",
+			"Überflutungen",
+			"Starker Regen",
+			"Starker Wind ",
+			"Hagel",
+			"Samen mit schlechter Qualität, schlechtes Pflanzmaterial",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"	
 		]
 }

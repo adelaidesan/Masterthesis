@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure avez-vous pu atténuer les effets négatifs de ces pertes?",
+	"title":"Inwieweit war es Ihnen möglich negative Konsequenzen abzuhalten?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

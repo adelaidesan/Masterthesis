@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance de ces informations pour adapter votre système de production en fonction de vos objectifs?",
+	"title":"Wie wichtig sind diese Informationen, um Ihr Produktionssystem an Ihre Ziele anzupassen?",
 	"choices":[
-		"Pas du tout",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

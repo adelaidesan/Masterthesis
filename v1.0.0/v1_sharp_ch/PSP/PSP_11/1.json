@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Au cours des 10 dernières années, avez-vous perdu une part importante de vos cultures (pertes avant récolte)?",
+	"title":"Haben Sie über die letzten 10 Jahre einen signifikanten Anteil Ihrer Pflanzen verloren (Verlust vor der Ernte)?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

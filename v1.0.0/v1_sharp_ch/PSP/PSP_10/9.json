@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Quelle est l'importance des arbres pour votre système agricole?",
+	"title":"Wie wichtig sind Bäume für Ihren Betrieb?",
 	"choices":[
-		"Aucune",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":"true"

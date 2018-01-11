@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous des informations/services issus de la vulgarisation agricole?",
+	"title":"Nutzen Sie Informations- und Beratungsdienste für Anbaumethoden/Viehbetrieb?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

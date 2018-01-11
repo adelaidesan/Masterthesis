@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure ces événements ont-ils affecté votre système agricole?",
+	"title":"In welchem Ausmaß haben diese Ereignisse Ihr Betriebssystem beeinflusst?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

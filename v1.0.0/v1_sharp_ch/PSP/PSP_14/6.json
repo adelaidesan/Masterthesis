@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous les services de prévisions météorologiques (notamment les informations préventives sur les menaces climatiques potentielles, par ex. Agrométéo)?",
+	"title":"Nutzen Sie Wettervorhersagedienste (einschließlich präventiver Informationen über potentielle klimatische Bedrohungen, z.B. Überschwemmungen, späte Regenfälle, etc.)?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }
