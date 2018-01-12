@@ -1,20 +1,20 @@
 {
 	"question-type":"table",
-	"title":"Avec qui échangez-vous directement?",
+	"title":"Mit wem tauschen Sie Wissen/Erkenntnisse aus?",
 	"lines":
 		[
-			"Ingénieur agronome",
-			"Représentant du gouvernement",
-			"Distributeur",
-			"Acheteur direct de mes produits",
-			"Autres agriculteurs",
-			"Membre de la famille travaillant sur l'exploitation",
-			"Citoyen-consommateur",
-			"_OTHER_INPUT::Autre (précisez)"
+			"(Agrar)-Wissenschaftler",
+			"Regierungsvertreter",
+			"Verteiler",
+			"Direkter Käufer des Produkts",
+			"Andere Landwirte",
+			"Familienmitglied, auf dem Betrieb arbeitend",
+			"Bürger/Verbraucher",
+			"_OTHER_INPUT::Andere (Bitte spezifizieren):"
 		],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 	],

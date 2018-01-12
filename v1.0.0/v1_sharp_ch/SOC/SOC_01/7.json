@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Au niveau de votre système agricole considérez-vous important d'être membre d'un groupe?",
+	"title":"Bezogen auf Ihren Betrieb, ist eine Gruppenmitgliedschaft wichtig?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Très"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"mandatory":"true"
 }

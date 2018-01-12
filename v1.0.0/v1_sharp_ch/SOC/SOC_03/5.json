@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"En cas d'aléa, pensez-vous avoir suffisamment de soutien de votre entourage (familial, amical, ...)?",
+	"title":"Glauben Sie im Falle eines Problems, dass Sie genug Unterstützung von Ihrer Umgebung haben (Familie, Freunde, etc.)?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

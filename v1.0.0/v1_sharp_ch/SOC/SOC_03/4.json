@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"En cas d'aléa, vous sentez-vous capable de vous adapter?",
+	"title":"Im Falle eines Schocks/Störung, fühlen Sie sich fähig damit umzugehen?",
 	"choices" : [
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"mandatory":true
 }

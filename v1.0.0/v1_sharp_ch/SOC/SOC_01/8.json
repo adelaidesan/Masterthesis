@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure faire partie de ces groupes vous a donné des connaissances pour améliorer votre système de production?",
+	"title":"Inwieweit hat eine Gruppenmitgliedschaft Ihnen mehr Wissen gegeben um Ihren Betrieb zu verbessern?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

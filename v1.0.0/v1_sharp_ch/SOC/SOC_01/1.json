@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Êtes-vous membres d'un groupe, d'une organisation ou d'une association?",
+	"title":"Sind Sie ein Mitglied von Gruppen, Organisationen oder Verband?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

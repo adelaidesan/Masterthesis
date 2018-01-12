@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Utilisez-vous les services vétérinaires?",
+	"title":"Nutzen Sie tierärztliche Dienste?",
 	"choices": [
-		"Oui et ils sont de bonne qualité",
-		"Oui mais ils sont problématiques (personnel non qualifié, cher, distant, etc.)",
-		"Non"
+		"Ja und mit hoher Qualität ",
+		"Ja aber es ist problematisch (unqualifiziertes Personal, teuer, weit entfernt, etc.)",
+		"Nein"
 	],
 	"mandatory":true
 }

@@ -1,7 +1,7 @@
 {
 	"group_id":"SOC",
 	"color":"blue",
-	"title":"Social",
+	"title":"Soziales",
 	"order": [
 		"SOC_01",
 		"SOC_02",

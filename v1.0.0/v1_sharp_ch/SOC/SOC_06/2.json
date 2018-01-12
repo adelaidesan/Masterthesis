@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Partagez-vous des machines avec d'autres agriculteurs?",
+	"title":"Teilen Sie sich Maschinen mit anderen Landwirten?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Dans votre village / voisinage, faites-vous généralement confiance aux autres pour prêter et emprunter?",
+	"title":"Vertrauen Sie in Ihrem Dorf / Ihrer Nachbarschaft in der Regel anderen, um Geld zu leihen und zu verleihen?",
 	"choices": [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

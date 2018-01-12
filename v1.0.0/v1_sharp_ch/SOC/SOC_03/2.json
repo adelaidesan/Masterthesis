@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Avez-vous changé vos habitudes en réponse au changement climatique?",
+	"title":"Haben Sie Ihre Tätigkeiten als Reaktion auf klimatische Veränderungen geändert?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

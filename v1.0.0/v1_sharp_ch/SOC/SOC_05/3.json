@@ -1,15 +1,15 @@
 {
 	"question-type":"table",
-	"title":"Si un projet collectif ne vous profite pas directement, mais profite à beaucoup d'autres dans le village / voisinage, seriez-vous d'accord pour consacrer (cocher la/les contribution(s) que vous envisagez)",
+	"title":"Wenn ein Gemeinschaftsprojekt Ihnen nicht direkt zugutekommt, aber im Dorf / der Nachbarschaft viele Vorteile hat, würden Sie sich einverstanden erklären? (Wählen Sie den Beitrag aus, den Sie in Betracht ziehen)",
 	"lines": [
-		"Du temps",
-		"De l'argent",
-		"Aucun des deux",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Zeit",
+		"Geld",
+		"Keines von beidem",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns" :[
 		{
-			"title":"Contribution",
+			"title":"Beitrag",
 			"type":"toggle"
 		}
 	],

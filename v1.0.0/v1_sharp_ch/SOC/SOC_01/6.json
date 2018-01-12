@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"En règle générale, dans quelle mesure est-ce que ces groupes vous apportent des avantages?",
+	"title":"Inwieweit profitieren Sie von diesen Gruppen?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Vollständig"
 	],
 	"mandatory":"true"
 }

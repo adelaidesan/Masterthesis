@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que chaque individu du ménage a accès à une alimentation suffisante et de qualité?",
+	"title":"Hat jeder in Ihrem Haushalt Zugang zu einer abwechslungsreichen und hochwertigen Ernährung?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

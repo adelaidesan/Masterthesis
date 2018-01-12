@@ -1,10 +1,10 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"De façon générale, diriez-vous que l'on peut faire confiance à la plupart des gens de votre village / voisinage?",
+	"title":"Würden Sie im Allgemeinen sagen, dass man den meisten Menschen in Ihrem Dorf / Ihrer Nachbarschaft vertrauen kann?",
 	"choices": [
-		"Oui",
-		"Moyennement",
-		"None"
+		"Ja",
+		"Einigermaßen",
+		"Nein"
 	],
 	"mandatory":true
 }

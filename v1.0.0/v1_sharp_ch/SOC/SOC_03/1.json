@@ -1,22 +1,22 @@
 {
 	"question-type":"table",
-	"title":"Quels aléas avez-vous subis ces 10 dernières années?",
+	"title":"Was für Arten von Störungen haben Sie in den letzten 10 Jahren erlebt?",
 	"lines" : [
-		"Invasion de prédateurs",
-		"Inondations",
-		"Incendie",
-		"Maladies (végétales, animales et humaines)",
-		"Conflit (de voisinage, villageois, politique, ...)",
-		"Pluies au mauvais moment",
-		"Neige",
-		"Grêle",
-		"Vents violents",
-		"Sécheresse",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Schädlingsplage",
+		"Überflutungen",
+		"Feuer",
+		"Krankheiten (Nutzpflanzen, Nutztiere, Mensch)",
+		"Konflikt (Nachbarschaft, Dorfbewohner, Politik, ...)",
+		"Regen zur falschen Zeit",
+		"Schnee",
+		"Hagel",
+		"Starke Winde",
+		"Dürre",
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 	],
