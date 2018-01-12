@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure l'utilisation de pesticides de synthèse vous permet-elle de contrôler les ravageurs de manière efficace?",
+	"title":"In welchem Umfang ermöglichen synthetische Pflanzenschutzmittel es Ihnen Schädlinge effektiv zu bekämpfen?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les pratiques que vous utilisez vous permettent-elles une lutte suffisante contre les prédateurs/maladies?",
+	"title":"Inwieweit erlauben die Praktiken, die Sie verwenden, eine ausreichende Schädlings-/Krankheitsbekämpfung?",
 	"choices":[
-		"Pas du tout",
-		"Un peu",
-		"Moyennement",
-		"Beaucoup",
-		"Complètement"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Beinahe völlig",
+		"Vollständig"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

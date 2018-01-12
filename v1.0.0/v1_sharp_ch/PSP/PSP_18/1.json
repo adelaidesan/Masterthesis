@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer_with_comment",
-	"title":"Pratiquez-vous la culture associée?",
+	"title":"Bauen Sie zwei oder mehr Nutzpflanzenarten in Gesellschaft an?",
 	"choices":[
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"placeholder":"PLACEHOLDER",
 	"mandatory":true

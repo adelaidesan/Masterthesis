@@ -1,22 +1,21 @@
 {
 	"question-type":"table",
-	"title":"Quelles pratiques de gestion des prédateurs avez-vous utilisé au cours de la dernière saison de culture (cochez celles utilisées)?",
+	"title":"Welche Methoden zur Schädlingsbekämpfung haben Sie in der letzten Anbausession angewendet (wählen Sie aus)?",
 	"lines": [
-		"Pesticides naturels",
-		"Variétés ou semences résistantes aux prédateurs",
-		"Méthodes de lutte biologiques (par ex. parasitoïdes, coccinelles)",
-		"Lutte mécanique",
-		"Pesticides de synthèse",
-		"Rotation des cultures afin de réduire la croissance des adventices et des déprédateurs",
-		"Eclaircissement des plants",
-		"Capture à la main des déprédateurs trouvés sur les plantes",
-		"Traitement en pépinière",
-		"Utilisation de pièges ou de pièges végétaux",
-		"_OTHER_INPUT::Autre (précisez)"
+		"Natürliche Pestizide",
+		"Schädlingsresistente Sorten oder Samen",
+		"Biologische Kontrollmethoden (Bsp. Parasitoiden, Marienkäfer)",
+		"Synthetische Pestizide"
+		"Fruchtfolge zur Verringerung des Unkraut- und Schädlingsdrucks",
+		"Ausdünnung der Pflanzen",
+		"Manuelles Einfangen der Schädlinge",
+		"Behandlungen während der Pflanzenanzucht",
+		"Benutzung von Fallen",
+		"_OTHER_INPUT::Anderes (bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Cochez",
+			"title":"Bitte auswählen",
 			"type":"toggle"
 		}
 

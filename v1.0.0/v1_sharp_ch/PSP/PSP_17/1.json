@@ -1,19 +1,19 @@
 {
 	"question-type":"table",
-	"title":"Pesticide",
+	"title":"Pestizide",
 	"lines": [
-		"Insecticide",
-		"Herbicide",
-		"Fongicide"
+		"Insektizide",
+		"Herbizide",
+		"Fungizide"
 	],
 	"columns": [
 		{
-			"title":"Avez-vous utilisé des pesticides chimiques?",
+			"title":"Haben Sie schon einmal synthetische Pestizide verwendet?",
 			"type":"binary"
 		}, 
 		
 		{
-			"title":"Avez-vous vérifié la présence des prédateurs/maladies sur vos cultures avant de pulvériser?",
+			"title":"Kontrollieren Sie vor dem Pflanzenschutzeinsatz Krankheiten/Schädlingen auf den Pflanzen?",
 			"type":"binary"
 		}
 	]

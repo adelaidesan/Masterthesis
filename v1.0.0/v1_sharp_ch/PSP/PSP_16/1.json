@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Utilisez-vous des pratiques de gestion des prédateurs (ravageurs)/maladies sur vos cultures?",
+	"title":"Setzen Sie Methoden zur Schädlings-/Krankheitsbekämpfung ein?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }

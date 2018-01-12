@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Si oui, quelles protections utilisez-vous?" ,
+	"title":"Falls ja, was für Schutzkleidung nutzen Sie",
 	"choices": 
 		[
-			"Lunettes de protection",
-			"Gants",
-			"Masque",
-			"Veste",
-			"_OTHER_INPUT::Autre (précisez)"
+			"Augenschutz",
+			"Handschuhe",
+			"Maske",
+			"Jacke",
+			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 		]
 }

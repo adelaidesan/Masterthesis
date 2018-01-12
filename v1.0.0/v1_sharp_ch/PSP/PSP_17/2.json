@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Au cours de la dernière saison de culture, à quelle fréquence avez-vous utilisé un équipement de protection?",
+	"title":"Haben Sie in der letzten Anbausaison Schutzkleidung benutzt?",
 	"choices":
 		[
-			"Toujours",
-			"Quelquefois",
-			"Jamais"
+			"Immer",
+			"Manchmal",
+			"Nie"
 		],
 	"mandatory":true
 }

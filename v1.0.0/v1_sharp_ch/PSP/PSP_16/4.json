@@ -1,12 +1,12 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Dans quelle mesure les pratiques que vous utilisez vous permettent de lutter efficacement contre les déprédateurs/maladies?",
+	"title":"Wie wichtig ist Schädlings- und Krankheitsbekämpfung für Ihren Betrieb?",
 	"choices":[
-		"Aucune",
-		"Faible",
-		"Moyenne",
-		"Elevée",
-		"Très élevée"
+		"Überhaupt nicht",
+		"Ein wenig",
+		"Mittelmäßig",
+		"Ziemlich",
+		"Sehr"
 	],
 	"scoring":"SOME_OPTION",
 	"mandatory":true

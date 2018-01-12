@@ -1,9 +1,9 @@
 {
 	"question-type":"binary_answer",
-	"title":"Est-ce que vous cultivez des plantes en association avec l'aquaculture?",
+	"title":"Bauen Sie Nutzpflanzen in Assoziation mit Aquakultur an?",
 	"choices" : [
-		"Oui",
-		"Non"
+		"Ja",
+		"Nein"
 	],
 	"mandatory":true
 }
