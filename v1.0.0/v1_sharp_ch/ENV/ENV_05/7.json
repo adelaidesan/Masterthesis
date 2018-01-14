@@ -1,6 +1,6 @@
 {
 	"question-type":"binary_answer",
-	"title":"* Haben Sie in den letzten 5 Jahren einen Trend zur Bodendegradation in Ihrem Betrieb beobachtet?",
+	"title":"Haben Sie in den letzten 5 Jahren einen Trend zur Bodendegradation in Ihrem Betrieb beobachtet?",
 	"choices" : [
 		"Ja",
 		"Nein"

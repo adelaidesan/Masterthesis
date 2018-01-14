@@ -17,7 +17,7 @@
 		"Erdgas",
 		"Biogas (von Mist/Kompost/Mais)",
 		"Elektrizität (Öffentliche Quelle)",
-		"_OTHER_INPUT::Autre (précisez)"
+		"_OTHER_INPUT::Anderes (bitte spezifizieren):"
 	],
 	"columns" : [
 		{
