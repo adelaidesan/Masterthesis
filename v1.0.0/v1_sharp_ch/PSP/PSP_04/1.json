@@ -1,6 +1,6 @@
 {
 	"question-type":"binary_answer",
-	"title":"Betreiben Sie Pflanzenbau? (Mehrjährig oder einjährig)?",
+	"title":"Betreiben Sie Pflanzenbau (mehrjährig oder einjährig)?",
 	"choices": [
 		"Ja",
 		"Nein"

@@ -1,15 +1,14 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Aus welchem Grund haben Sie diese Bäume gepflanzt? (Kreuzen Sie die passende Antwort an)?",
+	"title":"Aus welchem Grund haben Sie diese Bäume gepflanzt? (Kreuzen Sie die passende Antwort an)",
 	"choices": 
 		[
 			"Brennholz",
 			"Holz für Baumaterial",
 			"Bäume für Schatten",
 			"Futter Produkte (Tiere)",
-			"Lebensmittel (Menschen",
+			"Lebensmittel (Menschen)",
 			"Dünger",
-			"Holz für Baumaterial",
 			"Natürliche Heilmittel (Menschen)",
 			"Produkte zum Pflanzenschutz",
 			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"

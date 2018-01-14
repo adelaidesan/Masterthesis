@@ -13,7 +13,7 @@
 			"type":"text"
 		}, 
 		{
-			"title":"Für jede genannte Arte, wie viele Sorten bewirtschaften Sie?",
+			"title":"Für jede genannte Art, wie viele Sorten bewirtschaften Sie?",
 			"type":"integer"
 		},
 		{
