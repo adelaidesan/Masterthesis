@@ -1,6 +1,6 @@
  {
 	"question-type":"table",
-	"title":"Welche Produkte verkaufen Sie durch Dirketvermarktung?",
+	"title":"Produkte, die Sie direkt an den Kunden verkaufen?",
 	"lines" : [
 		"Produkt 1",
 		"Produkt 2",
@@ -15,12 +15,8 @@
 			"title":"Beschreibung",
 			"type":"text"
 		},
-		{
-			"title":"Verkaufen Sie einige dieser Produkte direkt an den Kunden?",
-			"type":"binary"
-		},
 				{
-			"title":"Falls ja, wie oft?",
+			"title":"Wie oft?",
 			"type":"choice",
 			"choices": [
 				"Jede Woche",

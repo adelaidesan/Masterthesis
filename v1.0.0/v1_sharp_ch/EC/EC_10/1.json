@@ -10,7 +10,7 @@
 	],
 	"columns": [
 		{
-			"title":"Ausgabenposten (Bsp. Bildung)",
+			"title":"Ausgabenposten",
 			"type":"choice",
 			"choices": [
 				"Pestizide",
