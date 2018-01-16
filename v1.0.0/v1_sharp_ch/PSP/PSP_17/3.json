@@ -1,6 +1,6 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Falls ja, was für Schutzkleidung nutzen Sie",
+	"title":"Falls ja, was für Schutzkleidung nutzen Sie?",
 	"choices": 
 		[
 			"Augenschutz",
@@ -8,5 +8,5 @@
 			"Maske",
 			"Jacke",
 			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
-		]
+		],
 }

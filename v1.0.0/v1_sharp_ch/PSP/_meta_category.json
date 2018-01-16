@@ -1,7 +1,7 @@
 {
 	"group_id":"PSP",
 	"color":"grey",
-	"title":"Produktionssysteme und Methoden",
+	"title":"Produktionssysteme und -methoden",
 	"order": [
 		"PSP_02",
 		"PSP_01",

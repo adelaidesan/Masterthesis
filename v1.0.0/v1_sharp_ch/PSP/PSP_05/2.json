@@ -9,8 +9,9 @@
 		"Schwein",
 		"Geflügel (Hühner, Truthuhn, etc.)",
 		"Pferde",
-		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"
+		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
+	
 	"columns": [
 		{
 			"title":"Wie viele Tiere haben Sie, ungefähr?",

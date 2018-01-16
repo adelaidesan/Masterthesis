@@ -13,7 +13,7 @@
 		}, 
 		
 		{
-			"title":"Kontrollieren Sie vor dem Pflanzenschutzeinsatz Krankheiten/Schädlingen auf den Pflanzen?",
+			"title":"Kontrollieren Sie die Pflanzen vor dem Pflanzenschutzeinsatz auf Krankheiten/Schädlingen?",
 			"type":"binary"
 		}
 	]
