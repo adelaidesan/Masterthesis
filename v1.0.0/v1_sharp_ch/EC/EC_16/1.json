@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Bitte antworten Sie einzeln für jede Pflanze/Tier",
+	"title":"Bitte antworten Sie einzeln für Ihre profitabelsten Produkte:",
 	"lines" : [
 		"Produkt 1",
 		"Produkt 2",
@@ -16,7 +16,7 @@
 			"type":"text"
 		},
 		{
-			"title":"Wie vermarkten Sie Ihre profitabelsten Produkte?",
+			"title":"Wie vermarkten Sie diese:?",
 			"type":"choice",
 			"choices": [
 				"Agrarindustrie",
@@ -27,11 +27,11 @@
 			]
 		},
 		{
-			"title":"Falls Sie Vertragslandwirtschaft betreiben, haben Sie bei den Verhandlungen über den Inhalt des Vertrags ein Mitspracherecht?",
+			"title":"Im Falls von Vertragslandwirtschaft, haben Sie ein Mitspracherecht?",
 			"type":"binary"
 		},
 		{
-			"title":"Betrachten Sie sich selbst als Akteur in der Lebensmittelkette oder als individuelle Produktionseinheit?",
+			"title":"Wie sehen Sie Ihre Rolle in der Lebensmittelkette?",
 			"type":"choice",
 			"choices": [
 				"Akteur einer Lebensmittelkette",
@@ -42,36 +42,36 @@
 			"title":"Wer entscheidet hauptsächlich was Sie produzieren?",
 			"type":"choice",
 			"choices": [
-				"Sie",
-				"Sie und andere Landwirte",
+				"Ich",
+				"Ich und andere Landwirte",
 				"Akteure, die keine Landwirte sind"
 			]
 		},
 		{
-			"title":"Beteiligen Sie sich an der Festlegung der örtlichen Betriebsvorschriften?",
+			"title":"Beteiligen Sie sich an der Ausarbeitung der örtlichen Betriebsvorschriften?",
 			"type":"choice",
 			"choices": [
-				"Ein bisschen",
+				"Etwas",
 				"Viel",
-				"Überhaupt nicht"
+				"Nein"
 			]
 		},
 		{
-			"title":"Beteiligen Sie sich an der Festlegung der regionalen Betriebsvorschriften?",
+			"title":"An der Ausarbeitung der regionalen Vorschriften?",
 			"type":"choice",
 			"choices": [
-				"Ein bisschen",
+				"Etwas",
 				"Viel",
-				"Überhaupt nicht"
+				"Nein"
 			]
 		},
 		{
-			"title":"Beteiligen Sie sich an der Festlegung der nationalen Bestimmungen?",
+			"title":"Und an der Ausarbeitung von nationalen Vorschriften?",
 			"type":"choice",
 			"choices": [
-				"Ein bisschen",
+				"Etwas",
 				"Viel",
-				"Überhaupt nicht"
+				"Nein"
 			]
 		}
 		

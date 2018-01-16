@@ -12,11 +12,11 @@
 	],
 	"columns": [
 		{
-			"title":"Beschreibung",
+			"title":"Beschreibung:",
 			"type":"text"
 		},
 		{
-			"title":"Bitte, beschreiben Sie die Preisentwicklung des Produkts (über die letzten 3 Jahre)",
+			"title":"Bitte, beschreiben Sie die Preisentwicklung des Produkts (über die letzten 3 Jahre):",
 			"type":"choice",
 			"choices": [
 				"Stabil",
@@ -28,7 +28,7 @@
 			]
 		},
 		{
-			"title":"Anderes",
+			"title":"Bemerkungen:",
 			"type":"text"
 		}
 	],
