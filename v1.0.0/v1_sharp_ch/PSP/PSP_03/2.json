@@ -9,15 +9,15 @@
 	],
 	"columns": [
 		{
-			"title":"Falls ja, welche Arten bewirtschaften Sie? z.B. Karpfen, Tilapien, etc.",
+			"title":"Falls ja, welche Arten bewirtschaften Sie? z.B. Karpfen, Tilapien etc.",
 			"type":"text"
 		}, 
 		{
-			"title":"Für jede genannte Art, wie viele Sorten bewirtschaften Sie?",
+			"title":"Wie viele Sorten bewirtschaften Sie pro genannter Art?",
 			"type":"integer"
 		},
 		{
-			"title":"Für jede genannte Art, geben Sie Nahrungszusätze?",
+			"title":"Geben Sie Nahrungszusätze pro genannter Art?",
 			"type":"toggle"
 		},
 		{

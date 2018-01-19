@@ -1,6 +1,6 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Aus welchem Grund haben Sie diese Bäume gepflanzt? (Kreuzen Sie die passende Antwort an)",
+	"title":"Aus welchem Grund haben Sie diese Bäume gepflanzt?",
 	"choices": 
 		[
 			"Brennholz",
@@ -10,7 +10,8 @@
 			"Lebensmittel (Menschen)",
 			"Dünger",
 			"Natürliche Heilmittel (Menschen)",
+			"Natürliche Heilmittel (Tiere)",
 			"Produkte zum Pflanzenschutz",
 			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
-		]
+		],
 }

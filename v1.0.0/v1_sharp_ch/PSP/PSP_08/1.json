@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Generell, welche Saatgutquellen nutzen Sie?",
+	"title":"Welche Saatgutquellen nutzen Sie generell?",
 	"all_visible":true,
 	"lines": [
 		"Regierung",
@@ -9,12 +9,12 @@
 		"Eigenproduktion",
 		"Intermediäre (landwirtschaftliche Händler/Lieferanten)",
 		"Samenbanken",
-		"Saatgutproduzenten/firmen",
+		"Saatgutproduzenten/-firmen",
 		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	"columns": [
 		{
-			"title":"Herkunft des Saatgutes / vegetatives Material (Samen, Setzlinge, etc.):",
+			"title":"Herkunft des Saatgutes/vegetatives Material (Samen, Setzlinge etc.):",
 			"type":"choice",
 			"choices": [
 				"Ja",
@@ -23,7 +23,7 @@
 			]
 		},
 		{
-			"title":"Zucht der Nutztiere (künstliche Befruchtung, etc.)",
+			"title":"Zucht der Nutztiere (künstliche Befruchtung etc.)",
 			"type":"choice",
 			"choices": [
 				"Ja",

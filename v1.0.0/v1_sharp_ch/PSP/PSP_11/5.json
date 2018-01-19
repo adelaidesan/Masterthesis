@@ -1,6 +1,6 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Wovon (Bitte auswählen)?",
+	"title":"Wodurch?",
 	"choices": 
 		[
 			"Krankheiten",
@@ -9,5 +9,5 @@
 			"Nicht eingezäunte Tiere",
 			"Tierdiebstahl",
 			"_OTHER_INPUT::Anderes (Bitte spezifizieren)"	
-		]
+		],
 }

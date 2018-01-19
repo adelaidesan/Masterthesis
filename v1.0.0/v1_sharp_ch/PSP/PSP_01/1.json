@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Frage / Person",
+	"title":"Frage/Person",
 	"lines": [
 		"Männer (16-65)",
 		"Frauen (16-65)",
@@ -11,7 +11,7 @@
 	],
 	"columns": [
 		{
-			"title":"Für jede Kategorie, wie viele Menschen sind in Ihrem Haushalt:",
+			"title":"Wieviele Menschen pro Kategorie sind in Ihrem Haushalt:",
 			"type":"integer"
 		}, 
 		{

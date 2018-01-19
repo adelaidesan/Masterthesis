@@ -7,22 +7,22 @@
 		"Ziege",
 		"Schaf",
 		"Schwein",
-		"Geflügel (Hühner, Truthuhn, etc.)",
+		"Geflügel (Hühner, Truthuhn etc.)",
 		"Pferde",
 		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 	],
 	
 	"columns": [
 		{
-			"title":"Wie viele Tiere haben Sie, ungefähr?",
+			"title":"Wie viele Tiere haben Sie ungefähr?",
 			"type":"integer"
 		}, 
 		{
-			"title":"In jeder Kategorie, wie viele Rassen besitzen Sie?",
+			"title":"Wie viele Rassen besitzen Sie pro Kategorie?",
 			"type":"integer"
 		},
 		{
-			"title":"Richten Sie sich nach einem Förderprogramm für Tierwohl (Bsp. FAKT in BaWü), bitte angeben falls ja?",
+			"title":"Richten Sie sich nach einem Förderprogramm für Tierwohl (Bsp. FAKT in BaWü), bitte angeben, falls ja?",
 			"type":"binary"
 		},
 		

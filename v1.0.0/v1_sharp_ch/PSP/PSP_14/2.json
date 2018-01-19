@@ -1,6 +1,6 @@
 {
 	"question-type":"binary_answer",
-	"title":"Haben Sie in den letzten 10 Jahren irgendwelche Veränderungen bezüglich des Wetters bemerkt?",
+	"title":"Haben Sie in den letzten zehn Jahren irgendwelche Veränderungen bezüglich des Wetters bemerkt?",
 	"choices": [
 		"Ja",
 		"Nein"
