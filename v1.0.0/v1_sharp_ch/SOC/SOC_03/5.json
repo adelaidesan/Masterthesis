@@ -1,6 +1,6 @@
 {
 	"question-type":"binary_answer",
-	"title":"Glauben Sie im Falle eines Problems, dass Sie genug Unterstützung von Ihrer Umgebung haben (Familie, Freunde, etc.)?",
+	"title":"Glauben Sie im Falle eines Problems, dass Sie genug Unterstützung von Ihrer Umgebung haben (Familie, Freunde etc.)?",
 	"choices" : [
 		"Ja",
 		"Nein"
