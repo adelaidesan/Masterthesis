@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Wie ist der Boden Ihres Landes beschaffen? (Kreuzen Sie die passende Antwort an):",
+	"title":"Wie ist der Boden Ihres Landes beschaffen?",
 	"choices": 
 		[
-			"Sandig?",
-			"Lehmig?",
-			"Tonig?",
-			"Steinig?"
+			"Sandig",
+			"Lehmig",
+			"Tonig",
+			"Steinig"
 		]
 }

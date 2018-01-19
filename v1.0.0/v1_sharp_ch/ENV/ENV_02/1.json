@@ -1,6 +1,6 @@
 {
 	"question-type":"multiple_multiple_solution",
-	"title":"Wenden Sie in Ihrem Betrieb Techniken und Strategien an, um Wasser zu sparen?",
+	"title":"Welche Techniken und Strategien wenden Sie an, um Wasser zu sparen?",
 	"choices": 
 		[
 			"Zisternen",
@@ -15,5 +15,5 @@
 			"Abgestufte Gräben/Wasserwege (zum Ablassen)",
 			"Dämme",
 			"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
-		]
+		],
 }

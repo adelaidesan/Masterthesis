@@ -3,10 +3,10 @@
 	"title":"Woher beziehen Sie Ihren Dünger?",
 	"lines": [
 		"Vom Hof",
-		"Landwirtschaftliche Genossenschaft",
-		"Anderer Verteiler",
-		"Anderer Betrieb",
-		"Landwirtschaftlicher Berater",
+		"Von einer landwirtschaftliche Genossenschaft",
+		"Von anderen Verteilern",
+		"Von anderer Betrieben",
+		"Von landwirtschaftlichen Beratern",
 		"_OTHER_INPUT::Anderes (Bitte spezifizieren):"
 
 	],

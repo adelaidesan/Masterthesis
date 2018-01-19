@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Für jede Wasserquelle, die Sie für die Bewässerung oder Viehhaltung verwenden können, geben Sie bitte an:",
+	"title":"Geben Sie für jede Wasserquelle, die Sie für die Bewässerung oder Viehhaltung verwenden können an:",
 	"lines":[
 		"1",
 		"2",
@@ -24,7 +24,7 @@
 			]
 		},
 		{
-			"title":"Haben Sie eine Veränderung in der Wassermenge während der letzten 5 Jahren wahrgenommen?",
+			"title":"Haben Sie eine Veränderung in der Wassermenge während der letzten fünf Jahren wahrgenommen?",
 			"type":"choice",
 			"choices": [
 				"Negative Veränderung",

@@ -2,10 +2,10 @@
 	"question-type":"multiple_one_solution",
 	"title":"Wie viel Energie wird von externen Anbietern zur Verfügung gestellt?",
 	"choices": [
-			"Die gesamte oder die meiste Energie kommt von externen Akteuren (0-20% stammen aus dem eigenen Betrieb)",
-			"Ungefähr die Hälfte der Energie (21-50%) aus dem eigenen Betrieb",
-			"Mehr als die Hälfte der Energie wird auf dem Betrieb produziert (50-80%)",
-			"Alles/fast alles der Energie (81-100%) wird auf dem Betrieb produziert"
+			"Die gesamte oder die meiste Energie kommt von externen Akteuren, 0-20% stammen aus dem eigenen Betrieb.",
+			"Ungefähr die Hälfte der Energie (21-50%) aus dem eigenen Betrieb.",
+			"Mehr als die Hälfte der Energie (51-80%) wird auf dem Betrieb produziert.",
+			"Die gesamte Energie (81-100%) wird auf dem Betrieb produziert."
 	],
 	"mandatory":true
 }
