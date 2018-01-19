@@ -3,9 +3,9 @@
 	"title":"Falls Sie bindende Verträge mit den Verkäufern/Anbietern haben, sind Sie mit den Bedingungen zufrieden oder fühlen Sie sich in Ihrer Flexibilität eingeschränkt?",
 	"choices": 
 		[
-			"Ich bin zufrieden",
+			"Ich bin zufrieden.",
 			"Eine Mischung von beidem",
-			"Es beschränkt meine Flexibilität"
+			"Es beschränkt meine Flexibilität."
 		],
 	"mandatory":true
 }

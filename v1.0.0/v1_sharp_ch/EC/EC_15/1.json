@@ -1,11 +1,11 @@
 {
 	"question-type":"multiple_one_solution",
-	"title":"Falls Sie Ihren Betrieb anpassen müssen/wolllen, geben Ihnen Ihre finanziellen Ressourcen einen gewissen Handlungsspielraum?",
+	"title":"Falls Sie Ihren Betrieb anpassen müssen/wollen, geben Ihnen Ihre finanziellen Ressourcen einen gewissen Handlungsspielraum?",
 	"choices":
 		[
 			"Ja, viel Handlungsspielraum",
-			"Mancher Handlungsspielraum (es gibt aber Limits)",
-			"Kein Handlungsspielraum (Bsp. Hohe Schuldenlast)"
+			"Etwas Handlungsspielraum (Es gibt aber Limits).",
+			"Kein Handlungsspielraum (z.B. Hohe Schuldenlast)"
 		],
 	"mandatory":true
 }

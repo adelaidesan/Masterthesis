@@ -1,11 +1,11 @@
 {
 	"question-type":"table",
-	"title":"Ordnen Sie Ihre produktiven Vermögenswerte nach Wichtigkeit (1 = am wichtigsten, 6 = am wenigsten wichtig)",
+	"title":"Ordnen Sie Ihre produktiven Vermögenswerte nach Wichtigkeit (1 = am wichtigsten, 6 = am wenigsten wichtig).",
 	"lines" : [
 		"Land",
-		"Nutzpfanzen",
+		"Nutzpflanzen",
 		"Nutztiere",
-		"Saatgut / Setzlinge",
+		"Saatgut/Setzlinge",
 		"Gebäude",
 		"Landwirtschaftliche Maschinen",
 		"_OTHER_INPUT::Anderes (Bitte spezifizieren)"

@@ -16,7 +16,7 @@
 			"type":"text"
 		},
 		{
-			"title":"Wie vermarkten Sie diese:?",
+			"title":"Wie vermarkten Sie diese?",
 			"type":"choice",
 			"choices": [
 				"Agrarindustrie",
@@ -27,7 +27,7 @@
 			]
 		},
 		{
-			"title":"Im Falls von Vertragslandwirtschaft, haben Sie ein Mitspracherecht?",
+			"title":"Falls Sie Vertragslandwirtschaft betreiben, haben Sie ein Mitspracherecht?",
 			"type":"binary"
 		},
 		{
@@ -39,7 +39,7 @@
 			]
 		},
 				{
-			"title":"Wer entscheidet hauptsächlich was Sie produzieren?",
+			"title":"Wer entscheidet hauptsächlich, was Sie produzieren?",
 			"type":"choice",
 			"choices": [
 				"Ich",
@@ -57,7 +57,7 @@
 			]
 		},
 		{
-			"title":"An der Ausarbeitung der regionalen Vorschriften?",
+			"title":",an der Ausarbeitung der regionalen Vorschriften?",
 			"type":"choice",
 			"choices": [
 				"Etwas",
@@ -66,7 +66,7 @@
 			]
 		},
 		{
-			"title":"Und an der Ausarbeitung von nationalen Vorschriften?",
+			"title":"und an der Ausarbeitung von nationalen Vorschriften?",
 			"type":"choice",
 			"choices": [
 				"Etwas",

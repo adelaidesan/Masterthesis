@@ -15,7 +15,7 @@
 	],
 	"columns": [
 		{
-			"title":"Nutzpflanzen  / Nutztiere / Einkommen / Gebäude / ...",
+			"title":"Nutzpflanzen/Nutztiere/Einkommen/Gebäude/etc.",
 			"type":"text"
 		},
 		{
@@ -23,11 +23,11 @@
 			"type":"toggle"
 		},
 		{
-			"title":"Gegen Feuer",
+			"title":"Brandschäden",
 			"type":"toggle"
 		},
 		{
-			"title":"Gegen andere Verluste",
+			"title":"andere Verluste",
 			"type":"toggle"
 		},
 		{
@@ -35,7 +35,7 @@
 			"type":"text"
 		},
 		{
-			"title":"Haben Sie in den letzten 5 Jahren Anspruch auf die Versicherung genommen?",
+			"title":"Haben Sie in den letzten fünf Jahren Anspruch auf die Versicherung genommen?",
 			"type":"toggle"
 		}
 

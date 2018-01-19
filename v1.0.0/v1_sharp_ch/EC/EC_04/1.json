@@ -1,6 +1,6 @@
 {
 	"question-type":"table",
-	"title":"Die profitabelsten Produkte, die Sie verkaufen sind:",
+	"title":"Die profitabelsten Produkte, die Sie verkaufen, sind:",
 	"lines" : [
 		"Produkt 1",
 		"Produkt 2",
@@ -39,7 +39,7 @@
 
 		},
 		{
-			"title":"Für jedes Produkt, fühlen Sie sich gefährdet durch die niedrigen Preise von konkurierenden Importprodukten?",
+			"title":"Fühlen Sie sich durch die niedrigen Preise von konkurrierenden Importprodukten gefährdet?",
 			"type":"binary"
 		}
 	],
